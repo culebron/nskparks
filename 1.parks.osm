@@ -1,0 +1,1147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='54.8101829' minlon='82.7641296' maxlat='55.1050873' maxlon='83.1472778' origin='http://overpass-api.de/api/xapi?' />
+  <bounds minlat='54.7927681' minlon='82.7325439' maxlat='55.158474' maxlon='83.1637573' origin='http://overpass-api.de/api/xapi?' />
+  <node id='-66' action='modify' visible='true' lat='54.86575693077' lon='83.10953797218' />
+  <node id='-64' action='modify' visible='true' lat='54.86621878074' lon='83.1095326854' />
+  <node id='-62' action='modify' visible='true' lat='54.86621108474' lon='83.10750266342' />
+  <node id='-60' action='modify' visible='true' lat='54.86574923468' lon='83.10750795019' />
+  <node id='-58' action='modify' visible='true' lat='54.88780655966' lon='83.07423971226' />
+  <node id='-56' action='modify' visible='true' lat='54.88790764944' lon='83.07456829526' />
+  <node id='-54' action='modify' visible='true' lat='54.88770504199' lon='83.07475670853' />
+  <node id='-52' action='modify' visible='true' lat='54.88760395171' lon='83.07442812553' />
+  <node id='-50' action='modify' visible='true' lat='55.05762360919' lon='82.89069327267' />
+  <node id='-48' action='modify' visible='true' lat='55.06323198001' lon='82.89170836458' />
+  <node id='-46' action='modify' visible='true' lat='55.06716421039' lon='82.88752857433' />
+  <node id='-44' action='modify' visible='true' lat='55.06624102579' lon='82.88388618568' />
+  <node id='-42' action='modify' visible='true' lat='55.06648037199' lon='82.88287109376' />
+  <node id='-40' action='modify' visible='true' lat='55.06405265129' lon='82.87337699876' />
+  <node id='-38' action='modify' visible='true' lat='55.06186415714' lon='82.87027201171' />
+  <node id='-36' action='modify' visible='true' lat='55.05735001002' lon='82.87092883589' />
+  <node id='-34' action='modify' visible='true' lat='55.04954518896' lon='82.85296949811' />
+  <node id='-32' action='modify' visible='true' lat='55.04886104952' lon='82.85535794968' />
+  <node id='-30' action='modify' visible='true' lat='55.04810848264' lon='82.86455348824' />
+  <node id='-28' action='modify' visible='true' lat='55.05228162983' lon='82.87291306875' />
+  <node id='-26' action='modify' visible='true' lat='55.05659114502' lon='82.8698080817' />
+  <node id='-24' action='modify' visible='true' lat='55.06773900798' lon='82.86670309466' />
+  <node id='-22' action='modify' visible='true' lat='55.05686705778' lon='82.82464076074' />
+  <node id='-20' action='modify' visible='true' lat='55.05350543066' lon='82.82670965136' />
+  <node id='-18' action='modify' visible='true' lat='55.05147380694' lon='82.83156521098' />
+  <node id='-16' action='modify' visible='true' lat='55.05106263245' lon='82.83498521385' />
+  <node id='-14' action='modify' visible='true' lat='55.04973233313' lon='82.8372229935' />
+  <node id='-12' action='modify' visible='true' lat='55.04924857697' lon='82.84114966346' />
+  <node id='-10' action='modify' visible='true' lat='55.08303802064' lon='82.96294468391' />
+  <node id='-8' action='modify' visible='true' lat='55.08267502281' lon='82.96264387851' />
+  <node id='279528387' timestamp='2011-04-08T17:46:35Z' uid='53468' user='yohanson' visible='true' version='8' changeset='7806198' lat='55.0368645' lon='82.9230942' />
+  <node id='279528388' timestamp='2008-12-28T14:38:41Z' uid='52015' user='rockcreek' visible='true' version='5' changeset='643203' lat='55.0371469' lon='82.9265276' />
+  <node id='279528393' timestamp='2012-08-19T01:14:42Z' uid='651147' user='mike_lyulyukin' visible='true' version='7' changeset='12778818' lat='55.0336436' lon='82.9274228' />
+  <node id='279528394' timestamp='2011-04-08T17:46:18Z' uid='53468' user='yohanson' visible='true' version='6' changeset='7806198' lat='55.0334187' lon='82.9247236' />
+  <node id='279529328' timestamp='2008-12-09T13:28:06Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='284940' lat='55.0309602' lon='82.9206174' />
+  <node id='279529329' timestamp='2008-12-09T13:28:14Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='284940' lat='55.0292741' lon='82.921107' />
+  <node id='279529330' timestamp='2008-12-09T13:28:37Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='284940' lat='55.029623' lon='82.9247652' />
+  <node id='279529331' timestamp='2008-12-09T13:28:46Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='284940' lat='55.0299829' lon='82.9246607' />
+  <node id='279529337' timestamp='2011-05-22T07:54:36Z' uid='40577' user='guggis' visible='true' version='5' changeset='8213182' lat='55.030011' lon='82.9233461' />
+  <node id='279529340' timestamp='2011-05-22T07:54:36Z' uid='40577' user='guggis' visible='true' version='3' changeset='8213182' lat='55.0305943' lon='82.9230682' />
+  <node id='279529341' timestamp='2011-05-22T07:54:35Z' uid='40577' user='guggis' visible='true' version='4' changeset='8213182' lat='55.0309231' lon='82.924638' />
+  <node id='279529342' timestamp='2010-04-25T07:12:51Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='4518211' lat='55.0313081' lon='82.9242543' />
+  <node id='279529555' timestamp='2011-12-26T19:25:50Z' uid='237049' user='siberiano' visible='true' version='4' changeset='10209974' lat='55.0272766' lon='82.9207011' />
+  <node id='279529557' timestamp='2011-12-26T19:25:50Z' uid='237049' user='siberiano' visible='true' version='4' changeset='10209974' lat='55.0292672' lon='82.9197916' />
+  <node id='279529558' timestamp='2011-12-26T19:25:50Z' uid='237049' user='siberiano' visible='true' version='2' changeset='10209974' lat='55.0291068' lon='82.9168346' />
+  <node id='279529559' timestamp='2011-12-26T19:25:50Z' uid='237049' user='siberiano' visible='true' version='2' changeset='10209974' lat='55.0269855' lon='82.9173758' />
+  <node id='279699433' timestamp='2009-01-10T20:20:06Z' uid='52015' user='rockcreek' visible='true' version='3' changeset='768221' lat='55.046928' lon='82.9566699'>
+    <tag k='created_by' v='Merkaartor 0.12' />
+  </node>
+  <node id='279699434' timestamp='2009-01-10T20:20:06Z' uid='52015' user='rockcreek' visible='true' version='3' changeset='768221' lat='55.0494066' lon='82.9561013'>
+    <tag k='created_by' v='Merkaartor 0.12' />
+  </node>
+  <node id='279699435' timestamp='2010-03-05T17:52:37Z' uid='241798' user='AndreySmirnov' visible='true' version='5' changeset='4043071' lat='55.0488406' lon='82.9516397' />
+  <node id='279699437' timestamp='2009-01-17T19:45:20Z' uid='21272' user='Alexey' visible='true' version='4' changeset='799837' lat='55.0471335' lon='82.947879'>
+    <tag k='created_by' v='Merkaartor 0.12' />
+  </node>
+  <node id='279699438' timestamp='2009-01-17T19:45:19Z' uid='21272' user='Alexey' visible='true' version='4' changeset='799837' lat='55.0469057' lon='82.9466005'>
+    <tag k='created_by' v='Merkaartor 0.12' />
+  </node>
+  <node id='279699439' timestamp='2013-05-03T11:00:12Z' uid='1219486' user='koSS_Rus' visible='true' version='5' changeset='15958396' lat='55.0457883' lon='82.9468855' />
+  <node id='279699440' timestamp='2013-05-03T11:00:12Z' uid='1219486' user='koSS_Rus' visible='true' version='5' changeset='15958396' lat='55.0457777' lon='82.947222' />
+  <node id='279699442' timestamp='2009-01-10T20:20:07Z' uid='52015' user='rockcreek' visible='true' version='3' changeset='768221' lat='55.0440369' lon='82.9508657'>
+    <tag k='created_by' v='Merkaartor 0.12' />
+  </node>
+  <node id='279701485' timestamp='2013-12-16T06:48:35Z' uid='542925' user='alex_hitman' visible='true' version='4' changeset='19476847' lat='55.0163675' lon='82.9504738' />
+  <node id='279701486' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='4' changeset='19476847' lat='55.0172109' lon='82.9484132' />
+  <node id='279701487' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='3' changeset='19476847' lat='55.015972' lon='82.9469002' />
+  <node id='279701488' timestamp='2013-12-16T06:48:35Z' uid='542925' user='alex_hitman' visible='true' version='3' changeset='19476847' lat='55.0152199' lon='82.9490301' />
+  <node id='279882619' timestamp='2008-07-20T20:40:07Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='555321' lat='55.0083643' lon='82.9354203' />
+  <node id='279882620' timestamp='2010-04-09T05:57:09Z' uid='27464' user='antonpa' visible='true' version='2' changeset='4369818' lat='55.0073502' lon='82.9339801' />
+  <node id='279882621' timestamp='2013-04-04T18:33:13Z' uid='830106' user='literan' visible='true' version='2' changeset='15611253' lat='55.0115998' lon='82.9239225' />
+  <node id='279882622' timestamp='2013-04-04T18:33:13Z' uid='830106' user='literan' visible='true' version='3' changeset='15611253' lat='55.0117854' lon='82.9241724' />
+  <node id='279882868' timestamp='2008-12-22T19:57:33Z' uid='52015' user='rockcreek' visible='true' version='3' changeset='554989' lat='55.0075964' lon='82.9352314' />
+  <node id='279882869' timestamp='2008-12-22T19:57:32Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0070698' lon='82.9345448' />
+  <node id='279882870' timestamp='2011-01-01T17:21:35Z' uid='233726' user='Kaylee' visible='true' version='4' changeset='6829939' lat='55.0030488' lon='82.9404474' />
+  <node id='279882871' timestamp='2011-01-01T17:19:27Z' uid='233726' user='Kaylee' visible='true' version='4' changeset='6829939' lat='55.0031385' lon='82.9405774' />
+  <node id='279882872' timestamp='2011-01-01T17:20:20Z' uid='233726' user='Kaylee' visible='true' version='4' changeset='6829939' lat='55.0031644' lon='82.941599' />
+  <node id='279882873' timestamp='2008-12-22T19:57:32Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0037876' lon='82.9407102' />
+  <node id='279882874' timestamp='2008-12-22T19:57:32Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0049975' lon='82.9422867' />
+  <node id='279882875' timestamp='2008-12-22T19:57:32Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.005219' lon='82.9416945' />
+  <node id='279882876' timestamp='2008-12-22T19:57:33Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0059475' lon='82.9412396' />
+  <node id='279882877' timestamp='2008-12-22T19:57:33Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0069073' lon='82.9389307' />
+  <node id='279882878' timestamp='2008-12-22T19:57:33Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0069369' lon='82.9385273' />
+  <node id='279882879' timestamp='2008-12-22T19:57:33Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0075423' lon='82.9368536' />
+  <node id='279882880' timestamp='2008-12-22T19:57:33Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='554989' lat='55.0071485' lon='82.9362614' />
+  <node id='280107457' timestamp='2012-04-18T17:33:59Z' uid='395715' user='oo-O-oo' visible='true' version='2' changeset='11346503' lat='55.0570034' lon='82.88837' />
+  <node id='280107459' timestamp='2008-07-21T20:15:08Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='564410' lat='55.0564691' lon='82.8777098' />
+  <node id='280107531' timestamp='2012-04-18T17:33:59Z' uid='395715' user='oo-O-oo' visible='true' version='4' changeset='11346503' lat='55.0561826' lon='82.8723767' />
+  <node id='280107533' timestamp='2008-07-21T20:15:40Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='564410' lat='55.0544387' lon='82.8826279' />
+  <node id='280107808' timestamp='2012-04-18T17:33:59Z' uid='395715' user='oo-O-oo' visible='true' version='2' changeset='11346503' lat='55.0589818' lon='82.8843047' />
+  <node id='280107810' timestamp='2009-07-10T14:27:51Z' uid='52015' user='rockcreek' visible='true' version='3' changeset='1789023' lat='55.0532225' lon='82.8738647' />
+  <node id='280107811' timestamp='2008-07-21T20:16:50Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='564410' lat='55.0538635' lon='82.8803877' />
+  <node id='280116165' timestamp='2011-01-31T04:54:44Z' uid='237045' user='Magomogo' visible='true' version='5' changeset='7142097' lat='54.9877954' lon='82.871341' />
+  <node id='280116167' timestamp='2011-01-31T04:54:51Z' uid='237045' user='Magomogo' visible='true' version='4' changeset='7142097' lat='54.9860611' lon='82.8716008' />
+  <node id='280116169' timestamp='2010-04-06T06:12:44Z' uid='241798' user='AndreySmirnov' visible='true' version='3' changeset='4340601' lat='54.9865607' lon='82.8838107' />
+  <node id='280116171' timestamp='2010-04-06T06:12:44Z' uid='241798' user='AndreySmirnov' visible='true' version='4' changeset='4340601' lat='54.9883108' lon='82.8835938' />
+  <node id='281052190' timestamp='2010-05-09T12:01:39Z' uid='53468' user='yohanson' visible='true' version='2' changeset='4647676' lat='55.0452783' lon='82.9121514' />
+  <node id='281052191' timestamp='2011-03-02T21:13:28Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='7441319' lat='55.0451833' lon='82.9120202' />
+  <node id='281052192' timestamp='2011-03-02T21:13:11Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='7441319' lat='55.0451692' lon='82.9112305' />
+  <node id='281052193' timestamp='2011-03-02T21:13:36Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='7441319' lat='55.0444055' lon='82.909199' />
+  <node id='281052194' timestamp='2011-03-02T21:14:07Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='7441319' lat='55.044126' lon='82.9094798' />
+  <node id='281052195' timestamp='2011-03-02T21:13:19Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='7441319' lat='55.043667' lon='82.9080942' />
+  <node id='281052196' timestamp='2011-03-02T21:13:40Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='7441319' lat='55.0440317' lon='82.9077508' />
+  <node id='281052197' timestamp='2011-03-02T21:13:03Z' uid='233726' user='Kaylee' visible='true' version='2' changeset='7441319' lat='55.0434985' lon='82.9067019' />
+  <node id='281052198' timestamp='2011-03-02T21:13:22Z' uid='233726' user='Kaylee' visible='true' version='2' changeset='7441319' lat='55.0425682' lon='82.9076853' />
+  <node id='281052199' timestamp='2012-09-14T13:53:39Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.042724' lon='82.9082309' />
+  <node id='281052200' timestamp='2012-09-14T13:53:40Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.0424555' lon='82.9084662' />
+  <node id='281052201' timestamp='2012-09-14T13:53:40Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.0427548' lon='82.9093994' />
+  <node id='281052202' timestamp='2010-04-03T17:06:22Z' uid='243916' user='titanlis' visible='true' version='2' changeset='4315131' lat='55.0425609' lon='82.9102671' />
+  <node id='281052203' timestamp='2010-04-03T17:06:23Z' uid='243916' user='titanlis' visible='true' version='2' changeset='4315131' lat='55.0420249' lon='82.9107906' />
+  <node id='281052204' timestamp='2012-09-14T13:53:40Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.0425311' lon='82.911517' />
+  <node id='281052205' timestamp='2012-09-14T13:53:40Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.0426338' lon='82.9113915' />
+  <node id='281052206' timestamp='2012-09-14T13:53:40Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.0427532' lon='82.9114759' />
+  <node id='281052207' timestamp='2012-09-14T13:53:40Z' uid='236129' user='Z440' visible='true' version='2' changeset='13107633' lat='55.0428831' lon='82.9127076' />
+  <node id='281052573' timestamp='2014-02-09T09:11:03Z' uid='357695' user='lifeslider' visible='true' version='2' changeset='20460649' lat='55.0286639' lon='82.9130976' />
+  <node id='281052574' timestamp='2014-02-09T09:11:03Z' uid='357695' user='lifeslider' visible='true' version='2' changeset='20460649' lat='55.0277955' lon='82.9151488' />
+  <node id='281052575' timestamp='2014-02-09T09:11:03Z' uid='357695' user='lifeslider' visible='true' version='2' changeset='20460649' lat='55.0276292' lon='82.9133975' />
+  <node id='281052668' timestamp='2010-09-21T16:20:34Z' uid='53468' user='yohanson' visible='true' version='3' changeset='5838293' lat='55.0264035' lon='82.927527' />
+  <node id='281052669' timestamp='2008-07-25T19:14:12Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0262599' lon='82.9258453' />
+  <node id='281052670' timestamp='2008-07-25T19:14:12Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0255072' lon='82.9260084' />
+  <node id='281052671' timestamp='2010-09-21T16:20:34Z' uid='53468' user='yohanson' visible='true' version='2' changeset='5838293' lat='55.0250771' lon='82.9271327' />
+  <node id='281052672' timestamp='2011-02-27T16:48:46Z' uid='53468' user='yohanson' visible='true' version='3' changeset='7412706' lat='55.0256692' lon='82.9276609' />
+  <node id='281053839' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0232489' lon='82.9364626' />
+  <node id='281053840' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0238885' lon='82.9358961' />
+  <node id='281053841' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0243953' lon='82.9345657' />
+  <node id='281053842' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0242526' lon='82.9344027' />
+  <node id='281053843' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0240902' lon='82.9347202' />
+  <node id='281053844' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0234309' lon='82.9338104' />
+  <node id='281053845' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0226585' lon='82.932317' />
+  <node id='281053846' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0220877' lon='82.9316647' />
+  <node id='281053847' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0215662' lon='82.9312956' />
+  <node id='281053848' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.0210397' lon='82.9310209' />
+  <node id='281053849' action='delete' timestamp='2010-03-19T15:32:17Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4171043' lat='55.020568' lon='82.9308885' />
+  <node id='281053850' action='delete' timestamp='2010-03-19T15:32:17Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4171043' lat='55.0207845' lon='82.9334489' />
+  <node id='281053851' action='delete' timestamp='2008-07-25T19:19:45Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='594506' lat='55.021389' lon='82.9342052' />
+  <node id='283338816' timestamp='2008-12-24T21:15:25Z' uid='21272' user='Alexey' visible='true' version='3' changeset='588128' lat='54.9853327' lon='82.8226343' />
+  <node id='283338817' timestamp='2010-12-08T03:31:24Z' uid='237045' user='Magomogo' visible='true' version='3' changeset='6581879' lat='54.9856025' lon='82.8285131' />
+  <node id='283338818' timestamp='2010-12-08T03:31:25Z' uid='237045' user='Magomogo' visible='true' version='3' changeset='6581879' lat='54.984052' lon='82.830125' />
+  <node id='283338819' timestamp='2008-12-24T21:15:25Z' uid='21272' user='Alexey' visible='true' version='2' changeset='588128' lat='54.9836745' lon='82.8229223' />
+  <node id='296527154' timestamp='2012-06-27T06:47:38Z' uid='317862' user='Pavel Melnikov' visible='true' version='3' changeset='12033421' lat='55.0531437' lon='82.8780814' />
+  <node id='296527156' timestamp='2009-07-10T14:27:51Z' uid='52015' user='rockcreek' visible='true' version='2' changeset='1789023' lat='55.0535568' lon='82.8795123' />
+  <node id='332688835' timestamp='2009-01-17T19:45:18Z' uid='21272' user='Alexey' visible='true' version='1' changeset='799837' lat='55.0444231' lon='82.9520835' />
+  <node id='427565102' timestamp='2009-06-21T13:22:16Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9919683' lon='82.8707051' />
+  <node id='427565103' timestamp='2009-06-21T13:22:16Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9940745' lon='82.8704746' />
+  <node id='427565104' timestamp='2009-06-21T13:22:16Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9944711' lon='82.8714578' />
+  <node id='427565105' timestamp='2009-06-21T13:22:16Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9946561' lon='82.8738542' />
+  <node id='427565106' timestamp='2009-06-21T13:22:17Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9936692' lon='82.8739463' />
+  <node id='427565107' timestamp='2009-06-21T13:22:17Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9934224' lon='82.8749909' />
+  <node id='427565108' timestamp='2009-06-21T13:22:17Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9940128' lon='82.8753289' />
+  <node id='427565109' timestamp='2009-06-21T13:22:17Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9941362' lon='82.8764503' />
+  <node id='427565110' timestamp='2009-06-21T13:22:17Z' uid='53468' user='yohanson' visible='true' version='1' changeset='1582692' lat='54.9923561' lon='82.8795072' />
+  <node id='439327291' timestamp='2009-07-10T14:27:51Z' uid='52015' user='rockcreek' visible='true' version='1' changeset='1789023' lat='55.0534093' lon='82.8761821' />
+  <node id='517352453' timestamp='2010-04-09T16:03:21Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4374436' lat='54.9805298' lon='82.8904607' />
+  <node id='517352455' timestamp='2010-04-09T16:03:21Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4374436' lat='54.9804429' lon='82.8880087' />
+  <node id='517352456' timestamp='2010-04-09T16:03:21Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4374436' lat='54.9780747' lon='82.888327' />
+  <node id='517352458' timestamp='2011-08-17T20:26:23Z' uid='217899' user='Miroff' visible='true' version='3' changeset='9051607' lat='54.9782353' lon='82.8925436' />
+  <node id='517352461' timestamp='2011-08-19T17:38:16Z' uid='217899' user='Miroff' visible='true' version='4' changeset='9067649' lat='54.9800256' lon='82.8924609' />
+  <node id='517352463' timestamp='2011-08-19T17:38:16Z' uid='217899' user='Miroff' visible='true' version='4' changeset='9067649' lat='54.98005' lon='82.8924075' />
+  <node id='650379620' timestamp='2010-04-05T09:30:26Z' uid='237049' user='siberiano' visible='true' version='2' changeset='4330816' lat='54.8191715' lon='83.1014162' />
+  <node id='650379621' timestamp='2010-02-22T14:28:24Z' uid='215962' user='ImmortAlex' visible='true' version='1' changeset='3943905' lat='54.8212918' lon='83.1019101' />
+  <node id='650379622' timestamp='2010-04-05T09:30:26Z' uid='237049' user='siberiano' visible='true' version='2' changeset='4330816' lat='54.8197681' lon='83.1050695' />
+  <node id='650379624' timestamp='2010-02-22T14:28:24Z' uid='215962' user='ImmortAlex' visible='true' version='1' changeset='3943905' lat='54.8216827' lon='83.104963' />
+  <node id='652468995' timestamp='2010-02-24T12:50:34Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8420973' lon='83.0930133' />
+  <node id='652469010' timestamp='2012-08-23T17:54:01Z' uid='380265' user='Anatoli' visible='true' version='2' changeset='12835654' lat='54.8365246' lon='83.1004682' />
+  <node id='652469011' timestamp='2010-02-27T18:43:58Z' uid='237049' user='siberiano' visible='true' version='2' changeset='3991352' lat='54.8367533' lon='83.1010499' />
+  <node id='652469013' timestamp='2010-02-24T12:50:35Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8370178' lon='83.100711' />
+  <node id='652469014' timestamp='2010-02-24T12:50:35Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8372063' lon='83.100416' />
+  <node id='652469017' timestamp='2010-02-24T12:50:35Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8374719' lon='83.1005555' />
+  <node id='652469029' timestamp='2010-02-24T12:50:35Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8379045' lon='83.1000512' />
+  <node id='652469033' timestamp='2010-02-24T12:50:35Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8379045' lon='83.0996167' />
+  <node id='652469037' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8380651' lon='83.0993216' />
+  <node id='652469040' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8383277' lon='83.0994826' />
+  <node id='652469043' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.838856' lon='83.0988764' />
+  <node id='652469046' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8388436' lon='83.0983024' />
+  <node id='652469050' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8390135' lon='83.0980556' />
+  <node id='652469054' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8392823' lon='83.0982219' />
+  <node id='652469057' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8397518' lon='83.0976587' />
+  <node id='652469065' timestamp='2010-02-24T12:50:36Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8397271' lon='83.097192' />
+  <node id='652469070' timestamp='2011-09-08T15:15:14Z' uid='472114' user='zebooka' visible='true' version='3' changeset='9246488' lat='54.8399312' lon='83.0969306' />
+  <node id='652469075' timestamp='2011-09-08T15:15:15Z' uid='472114' user='zebooka' visible='true' version='3' changeset='9246488' lat='54.8407963' lon='83.0968263' />
+  <node id='652469079' timestamp='2011-09-08T15:15:15Z' uid='472114' user='zebooka' visible='true' version='3' changeset='9246488' lat='54.8411659' lon='83.0958968' />
+  <node id='652469083' timestamp='2010-02-24T12:50:37Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8411605' lon='83.0953198' />
+  <node id='652469087' timestamp='2010-02-24T12:50:37Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8412099' lon='83.0949335' />
+  <node id='652469089' timestamp='2010-02-24T12:50:37Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8413736' lon='83.0946492' />
+  <node id='652469093' timestamp='2011-02-12T11:43:46Z' uid='217371' user='ogion76' visible='true' version='2' changeset='7263741' lat='54.8417884' lon='83.0948194' />
+  <node id='652469096' timestamp='2011-02-12T11:43:46Z' uid='217371' user='ogion76' visible='true' version='2' changeset='7263741' lat='54.8427089' lon='83.0935802' />
+  <node id='652469099' timestamp='2010-02-24T12:50:37Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8425474' lon='83.0924284' />
+  <node id='652469103' timestamp='2010-02-24T12:50:38Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8371599' lon='83.0994289' />
+  <node id='652469105' timestamp='2010-02-24T12:50:38Z' uid='237049' user='siberiano' visible='true' version='1' changeset='3962528' lat='54.8371414' lon='83.0996489' />
+  <node id='653109769' timestamp='2010-02-25T05:13:12Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='3968866' lat='54.8401015' lon='83.0955792' />
+  <node id='653109770' timestamp='2010-02-25T05:13:12Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='3968866' lat='54.8401512' lon='83.0956684' />
+  <node id='653109771' timestamp='2010-02-25T05:13:12Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='3968866' lat='54.8402411' lon='83.0955736' />
+  <node id='653109774' timestamp='2010-02-25T05:13:12Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='3968866' lat='54.8406039' lon='83.0958691' />
+  <node id='653109775' timestamp='2010-02-25T05:13:12Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='3968866' lat='54.840522' lon='83.0960865' />
+  <node id='653109776' timestamp='2010-02-25T05:13:12Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='3968866' lat='54.840384' lon='83.0952392' />
+  <node id='653109781' timestamp='2011-09-08T15:15:15Z' uid='472114' user='zebooka' visible='true' version='3' changeset='9246488' lat='54.8401242' lon='83.0972671' />
+  <node id='653109782' timestamp='2011-09-08T15:15:15Z' uid='472114' user='zebooka' visible='true' version='2' changeset='9246488' lat='54.8406205' lon='83.0966316' />
+  <node id='655162252' timestamp='2011-02-12T11:43:46Z' uid='217371' user='ogion76' visible='true' version='2' changeset='7263741' lat='54.8424463' lon='83.0939343' />
+  <node id='656753393' timestamp='2010-02-28T22:25:38Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4004075' lat='54.8227884' lon='83.1068238' />
+  <node id='660745790' timestamp='2013-05-03T11:00:12Z' uid='1219486' user='koSS_Rus' visible='true' version='3' changeset='15958396' lat='55.0447461' lon='82.9470551' />
+  <node id='662024733' timestamp='2010-03-07T08:36:52Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4058224' lat='55.0771467' lon='82.9567947' />
+  <node id='662024734' timestamp='2014-05-22T06:50:45Z' uid='2085784' user='mit3612' visible='true' version='2' changeset='22479766' lat='55.0787137' lon='82.9544024' />
+  <node id='662024735' timestamp='2010-03-07T08:36:52Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4058224' lat='55.0776126' lon='82.9577154' />
+  <node id='662024736' timestamp='2014-05-22T06:50:45Z' uid='2085784' user='mit3612' visible='true' version='2' changeset='22479766' lat='55.0791827' lon='82.9553165' />
+  <node id='662024737' timestamp='2014-05-22T06:50:45Z' uid='2085784' user='mit3612' visible='true' version='2' changeset='22479766' lat='55.0773818' lon='82.9564877' />
+  <node id='662024738' timestamp='2014-05-22T06:50:45Z' uid='2085784' user='mit3612' visible='true' version='2' changeset='22479766' lat='55.0778508' lon='82.9574018' />
+  <node id='662024760' timestamp='2010-03-07T08:36:53Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4058224' lat='55.0758563' lon='82.9587869' />
+  <node id='662024766' timestamp='2010-03-07T08:36:53Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4058224' lat='55.0763222' lon='82.9597076' />
+  <node id='671396703' timestamp='2010-03-21T13:55:39Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4191193' lat='55.0592298' lon='82.898458' />
+  <node id='671396705' timestamp='2012-03-07T13:31:46Z' uid='395715' user='oo-O-oo' visible='true' version='2' changeset='10899757' lat='55.0588808' lon='82.8981602' />
+  <node id='671396706' timestamp='2012-03-07T13:31:46Z' uid='395715' user='oo-O-oo' visible='true' version='2' changeset='10899757' lat='55.0585064' lon='82.89803' />
+  <node id='671396713' timestamp='2010-03-21T13:55:39Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4191193' lat='55.0606346' lon='82.8989892' />
+  <node id='671396722' timestamp='2012-03-07T13:31:46Z' uid='395715' user='oo-O-oo' visible='true' version='2' changeset='10899757' lat='55.0582853' lon='82.9007235' />
+  <node id='671396730' timestamp='2010-03-21T13:55:40Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4191193' lat='55.060531' lon='82.9004813' />
+  <node id='672209007' timestamp='2013-03-17T09:28:20Z' uid='1219486' user='koSS_Rus' visible='true' version='2' changeset='15393032' lat='55.0750957' lon='82.907943' />
+  <node id='672209009' timestamp='2013-03-17T09:28:22Z' uid='1219486' user='koSS_Rus' visible='true' version='2' changeset='15393032' lat='55.0750533' lon='82.9076909' />
+  <node id='672209012' timestamp='2010-03-22T17:03:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4204454' lat='55.076387' lon='82.9057733' />
+  <node id='672209017' timestamp='2010-03-22T17:03:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4204454' lat='55.0767414' lon='82.9064917' />
+  <node id='672209039' timestamp='2010-03-22T17:03:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4204454' lat='55.0768818' lon='82.9076831' />
+  <node id='674930339' timestamp='2010-03-26T17:22:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0616873' lon='82.9889977' />
+  <node id='674930340' timestamp='2010-03-26T17:22:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0620549' lon='82.9898099' />
+  <node id='674930341' timestamp='2010-03-26T17:22:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0623625' lon='82.9893776' />
+  <node id='674930343' timestamp='2010-04-28T09:31:10Z' uid='243916' user='titanlis' visible='true' version='2' changeset='4547864' lat='55.0633592' lon='82.9904536' />
+  <node id='674930344' timestamp='2010-04-03T05:29:32Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4309817' lat='55.0603001' lon='82.9908984' />
+  <node id='674930345' timestamp='2010-04-03T05:29:32Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4309817' lat='55.0601475' lon='82.9915826' />
+  <node id='674930346' timestamp='2010-03-26T17:22:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.060652' lon='82.9925216' />
+  <node id='674930347' timestamp='2010-03-26T17:22:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0618524' lon='82.9933731' />
+  <node id='674930348' timestamp='2010-03-26T17:22:17Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0630677' lon='82.9943163' />
+  <node id='674930689' timestamp='2010-04-28T09:31:10Z' uid='243916' user='titanlis' visible='true' version='2' changeset='4547864' lat='55.0640043' lon='82.9894665' />
+  <node id='674930707' timestamp='2010-03-26T17:22:30Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0645144' lon='82.990305' />
+  <node id='674931060' timestamp='2010-03-26T17:22:43Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0638006' lon='82.9913965' />
+  <node id='674931093' timestamp='2010-04-03T05:29:32Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4309817' lat='55.0638532' lon='82.9950586' />
+  <node id='674931094' timestamp='2010-03-26T17:22:44Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4239949' lat='55.0645306' lon='82.9940281' />
+  <node id='683028807' timestamp='2010-04-03T05:28:15Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4309817' lat='55.0619585' lon='82.9934554' />
+  <node id='685117638' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.818885' lon='83.1026536' />
+  <node id='685117639' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8189689' lon='83.1031047' />
+  <node id='685117640' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8184868' lon='83.1012857' />
+  <node id='685117641' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8186587' lon='83.1023843' />
+  <node id='685117642' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8188725' lon='83.1024207' />
+  <node id='685117647' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8190192' lon='83.1056294' />
+  <node id='685117649' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8194049' lon='83.1032065' />
+  <node id='685117654' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8215093' lon='83.1054548' />
+  <node id='685117655' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8191953' lon='83.1063352' />
+  <node id='685117656' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8195851' lon='83.1066408' />
+  <node id='685117657' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.820172' lon='83.1063789' />
+  <node id='685117658' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8204948' lon='83.1069246' />
+  <node id='685117659' timestamp='2010-04-05T09:30:22Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8207002' lon='83.1068591' />
+  <node id='685117680' timestamp='2010-04-05T09:30:23Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8231527' lon='83.105802' />
+  <node id='685117702' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.823011' lon='83.1073268' />
+  <node id='685117703' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8235514' lon='83.107167' />
+  <node id='685117704' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8237479' lon='83.1082356' />
+  <node id='685117705' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8243374' lon='83.107815' />
+  <node id='685117706' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8231586' lon='83.1079089' />
+  <node id='685117707' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.823732' lon='83.1094398' />
+  <node id='685117708' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8235442' lon='83.1093466' />
+  <node id='685117709' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8234101' lon='83.1090323' />
+  <node id='685117710' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8243524' lon='83.1098414' />
+  <node id='685117711' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8241914' lon='83.1095445' />
+  <node id='685117712' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8240003' lon='83.109434' />
+  <node id='685117713' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8245943' lon='83.1063612' />
+  <node id='685117714' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8249661' lon='83.1072806' />
+  <node id='685117715' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8258306' lon='83.1077581' />
+  <node id='685117716' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8262694' lon='83.107599' />
+  <node id='685117717' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8265641' lon='83.107599' />
+  <node id='685117718' timestamp='2010-04-06T10:48:18Z' uid='246049' user='kimol' visible='true' version='2' changeset='4342570' lat='54.8259201' lon='83.1111399' />
+  <node id='685117719' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8263475' lon='83.1110638' />
+  <node id='685117721' timestamp='2010-04-06T10:48:18Z' uid='246049' user='kimol' visible='true' version='2' changeset='4342570' lat='54.8259669' lon='83.1109502' />
+  <node id='685117724' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8273022' lon='83.1084687' />
+  <node id='685117725' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8274868' lon='83.1089753' />
+  <node id='685117726' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8274889' lon='83.1093926' />
+  <node id='685117727' timestamp='2010-04-06T10:48:18Z' uid='246049' user='kimol' visible='true' version='2' changeset='4342570' lat='54.8250006' lon='83.1124471' />
+  <node id='685117728' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8247581' lon='83.111902' />
+  <node id='685117729' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8257607' lon='83.11164' />
+  <node id='685117730' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8272562' lon='83.1123618' />
+  <node id='685117731' timestamp='2010-04-05T09:30:24Z' uid='237049' user='siberiano' visible='true' version='1' changeset='4330816' lat='54.8268505' lon='83.1125656' />
+  <node id='686198928' timestamp='2010-04-06T06:11:19Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9862207' lon='82.8754793' />
+  <node id='686198931' timestamp='2010-04-06T06:11:19Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9862347' lon='82.8758215' />
+  <node id='686198940' timestamp='2010-04-06T06:11:20Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9862709' lon='82.8767086' />
+  <node id='686198941' timestamp='2010-04-06T06:11:20Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9862605' lon='82.8764525' />
+  <node id='686199038' timestamp='2010-04-06T06:11:23Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9863898' lon='82.8796213' />
+  <node id='686199274' timestamp='2010-04-06T06:11:31Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9878928' lon='82.8733361' />
+  <node id='686199301' timestamp='2010-04-06T06:11:32Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9879687' lon='82.875211' />
+  <node id='686199448' timestamp='2010-04-06T06:11:37Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9880041' lon='82.8760763' />
+  <node id='686199874' timestamp='2010-04-06T06:11:51Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9864941' lon='82.8821782' />
+  <node id='686199963' timestamp='2010-04-06T06:11:54Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4340601' lat='54.9866298' lon='82.8838022' />
+  <node id='686502654' timestamp='2010-04-06T10:48:18Z' uid='246049' user='kimol' visible='true' version='1' changeset='4342570' lat='54.8255754' lon='83.1119901' />
+  <node id='690551665' timestamp='2011-08-17T20:26:23Z' uid='217899' user='Miroff' visible='true' version='2' changeset='9051607' lat='54.9780779' lon='82.8883879' />
+  <node id='690551819' timestamp='2011-08-19T17:38:16Z' uid='217899' user='Miroff' visible='true' version='3' changeset='9067649' lat='54.9810107' lon='82.8911875' />
+  <node id='690551821' timestamp='2010-04-09T16:02:37Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4374436' lat='54.9810472' lon='82.8911057' />
+  <node id='694210626' timestamp='2010-04-12T12:46:32Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9909852' lon='82.9140116' />
+  <node id='694210627' timestamp='2010-04-12T12:46:32Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9910037' lon='82.9150707' />
+  <node id='694210631' timestamp='2010-04-12T12:46:32Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9912283' lon='82.9161364' />
+  <node id='694210632' timestamp='2010-04-12T12:46:32Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9911399' lon='82.9158603' />
+  <node id='694210636' timestamp='2010-04-12T12:46:32Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9915634' lon='82.9165729' />
+  <node id='694210739' timestamp='2010-04-12T12:46:35Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.992149' lon='82.9139666' />
+  <node id='694210740' timestamp='2010-04-12T12:46:35Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9922079' lon='82.9144224' />
+  <node id='694210741' timestamp='2010-04-12T12:46:35Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4404108' lat='54.9924804' lon='82.9148011' />
+  <node id='705793489' timestamp='2010-04-25T07:12:50Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='4518211' lat='55.0312456' lon='82.9245732' />
+  <node id='727353495' timestamp='2010-05-09T12:01:13Z' uid='53468' user='yohanson' visible='true' version='1' changeset='4647676' lat='55.045265' lon='82.9120058' />
+  <node id='738647317' timestamp='2010-05-18T15:57:30Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4740068' lat='55.0276195' lon='82.9246621' />
+  <node id='738647329' timestamp='2010-05-18T15:57:31Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4740068' lat='55.0277677' lon='82.9230642' />
+  <node id='738647400' timestamp='2010-05-18T15:57:38Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4740068' lat='55.028354' lon='82.9229055' />
+  <node id='738647426' timestamp='2010-05-18T15:57:39Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4740068' lat='55.0273624' lon='82.9217716' />
+  <node id='738647448' timestamp='2010-05-18T15:57:39Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4740068' lat='55.027658' lon='82.9218304' />
+  <node id='738647450' timestamp='2010-05-18T15:57:39Z' uid='241798' user='AndreySmirnov' visible='true' version='1' changeset='4740068' lat='55.0276459' lon='82.9216948' />
+  <node id='738647464' timestamp='2011-04-08T17:46:23Z' uid='53468' user='yohanson' visible='true' version='2' changeset='7806198' lat='55.028424' lon='82.9244538' />
+  <node id='760172233' timestamp='2010-08-07T14:58:00Z' uid='237049' user='siberiano' visible='true' version='2' changeset='5425131' lat='54.8220251' lon='83.1056985'>
+    <tag k='barrier' v='entrance' />
+  </node>
+  <node id='914760457' timestamp='2011-05-22T07:54:38Z' uid='40577' user='guggis' visible='true' version='2' changeset='8213182' lat='55.0305363' lon='82.9230834' />
+  <node id='914760518' timestamp='2011-05-22T07:54:37Z' uid='40577' user='guggis' visible='true' version='2' changeset='8213182' lat='55.0300546' lon='82.9232374' />
+  <node id='920430010' timestamp='2010-09-21T16:20:28Z' uid='53468' user='yohanson' visible='true' version='1' changeset='5838293' lat='55.0250623' lon='82.9292101' />
+  <node id='920430014' timestamp='2010-09-21T16:20:28Z' uid='53468' user='yohanson' visible='true' version='1' changeset='5838293' lat='55.0250896' lon='82.9293983' />
+  <node id='920430018' timestamp='2011-02-27T16:48:43Z' uid='53468' user='yohanson' visible='true' version='3' changeset='7412706' lat='55.0241699' lon='82.9292824' />
+  <node id='920430024' timestamp='2010-09-21T16:20:28Z' uid='53468' user='yohanson' visible='true' version='1' changeset='5838293' lat='55.0251335' lon='82.9274856' />
+  <node id='920430027' timestamp='2010-09-21T16:20:29Z' uid='53468' user='yohanson' visible='true' version='1' changeset='5838293' lat='55.0248092' lon='82.9289661' />
+  <node id='920430033' timestamp='2010-09-21T16:20:29Z' uid='53468' user='yohanson' visible='true' version='1' changeset='5838293' lat='55.0256519' lon='82.9275469' />
+  <node id='920430038' timestamp='2011-02-27T16:48:56Z' uid='53468' user='yohanson' visible='true' version='2' changeset='7412706' lat='55.0245505' lon='82.9291382' />
+  <node id='920430041' timestamp='2011-01-08T10:35:40Z' uid='237045' user='Magomogo' visible='true' version='2' changeset='6901852' lat='55.0241879' lon='82.9295189' />
+  <node id='920430047' timestamp='2011-02-27T16:48:46Z' uid='53468' user='yohanson' visible='true' version='3' changeset='7412706' lat='55.0243295' lon='82.928867' />
+  <node id='920430053' timestamp='2011-01-08T10:35:41Z' uid='237045' user='Magomogo' visible='true' version='2' changeset='6901852' lat='55.0251002' lon='82.9297311' />
+  <node id='920430056' timestamp='2011-01-08T10:35:40Z' uid='237045' user='Magomogo' visible='true' version='2' changeset='6901852' lat='55.0243571' lon='82.9298207' />
+  <node id='1027569879' timestamp='2010-12-08T03:31:03Z' uid='237045' user='Magomogo' visible='true' version='1' changeset='6581879' lat='54.9836841' lon='82.8231054' />
+  <node id='1027570371' timestamp='2010-12-08T03:31:11Z' uid='237045' user='Magomogo' visible='true' version='1' changeset='6581879' lat='54.9852985' lon='82.8285977' />
+  <node id='1027570559' timestamp='2010-12-08T03:31:14Z' uid='237045' user='Magomogo' visible='true' version='1' changeset='6581879' lat='54.9853995' lon='82.8302104' />
+  <node id='1077139298' timestamp='2011-01-01T17:16:21Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='6829939' lat='55.0028942' lon='82.9412781' />
+  <node id='1090938712' timestamp='2011-01-08T10:35:32Z' uid='237045' user='Magomogo' visible='true' version='1' changeset='6901852' lat='55.0245006' lon='82.9299008' />
+  <node id='1129110883' timestamp='2011-01-31T04:54:40Z' uid='237045' user='Magomogo' visible='true' version='1' changeset='7142097' lat='54.9918808' lon='82.913977'>
+    <tag k='barrier' v='entrance' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+  </node>
+  <node id='1183456876' timestamp='2011-03-02T21:11:41Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7441319' lat='55.0436754' lon='82.906713' />
+  <node id='1183456992' timestamp='2011-03-02T21:11:45Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7441319' lat='55.0445153' lon='82.9095018' />
+  <node id='1183457277' timestamp='2011-03-02T21:11:54Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7441319' lat='55.0445581' lon='82.9094607' />
+  <node id='1183458002' timestamp='2011-03-02T21:12:06Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7441319' lat='55.0435766' lon='82.9067068'>
+    <tag k='barrier' v='entrance' />
+  </node>
+  <node id='1183458135' timestamp='2011-03-02T21:12:09Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7441319' lat='55.0449929' lon='82.9114096' />
+  <node id='1237468829' timestamp='2011-04-08T17:46:01Z' uid='53468' user='yohanson' visible='true' version='1' changeset='7806198' lat='55.0284558' lon='82.9238993' />
+  <node id='1237469090' timestamp='2011-04-08T17:46:05Z' uid='53468' user='yohanson' visible='true' version='1' changeset='7806198' lat='55.0337127' lon='82.9239026' />
+  <node id='1250749793' timestamp='2011-04-19T05:35:26Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7903331' lat='55.0284027' lon='82.9302455' />
+  <node id='1250749822' timestamp='2011-04-19T05:35:27Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7903331' lat='55.0282719' lon='82.9311509' />
+  <node id='1250749848' timestamp='2011-04-19T05:35:28Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7903331' lat='55.0282101' lon='82.9302875' />
+  <node id='1250749922' timestamp='2011-04-19T05:35:32Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7903331' lat='55.0284646' lon='82.9311089' />
+  <node id='1295744549' timestamp='2011-05-22T07:54:26Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0306472' lon='82.9237625' />
+  <node id='1295744564' timestamp='2011-05-22T07:54:27Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0306037' lon='82.9231776' />
+  <node id='1295744569' timestamp='2011-05-22T07:54:27Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.030901' lon='82.924305' />
+  <node id='1295744597' timestamp='2011-05-22T07:54:28Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0294749' lon='82.9231952' />
+  <node id='1295744599' timestamp='2011-05-22T07:54:28Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0300809' lon='82.9240507' />
+  <node id='1295744610' timestamp='2011-05-22T07:54:28Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0294983' lon='82.9234465' />
+  <node id='1295744611' timestamp='2011-05-22T07:54:28Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0307881' lon='82.9239718' />
+  <node id='1295744645' timestamp='2011-05-22T07:54:29Z' uid='40577' user='guggis' visible='true' version='1' changeset='8213182' lat='55.0300016' lon='82.9232508' />
+  <node id='1402660304' timestamp='2011-08-17T20:26:00Z' uid='217899' user='Miroff' visible='true' version='1' changeset='9051607' lat='54.979952' lon='82.8923343' />
+  <node id='1402660306' timestamp='2011-08-19T17:38:14Z' uid='217899' user='Miroff' visible='true' version='2' changeset='9067649' lat='54.9803079' lon='82.8926563' />
+  <node id='1404715156' timestamp='2011-08-19T17:38:05Z' uid='217899' user='Miroff' visible='true' version='1' changeset='9067649' lat='54.9801648' lon='82.8925702' />
+  <node id='1427058645' timestamp='2011-09-08T15:14:40Z' uid='472114' user='zebooka' visible='true' version='1' changeset='9246488' lat='54.8398984' lon='83.0969726' />
+  <node id='1427058741' timestamp='2011-09-08T15:14:42Z' uid='472114' user='zebooka' visible='true' version='1' changeset='9246488' lat='54.8409089' lon='83.0962558' />
+  <node id='1427058755' timestamp='2011-09-08T15:14:42Z' uid='472114' user='zebooka' visible='true' version='1' changeset='9246488' lat='54.8410221' lon='83.0965139' />
+  <node id='1427058757' timestamp='2011-09-08T15:14:42Z' uid='472114' user='zebooka' visible='true' version='1' changeset='9246488' lat='54.8410646' lon='83.0956986' />
+  <node id='1496135167' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0459055' lon='82.9559665' />
+  <node id='1496135168' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0459777' lon='82.9559262' />
+  <node id='1496135169' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0458548' lon='82.9559075' />
+  <node id='1496135170' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0456458' lon='82.955363' />
+  <node id='1496135171' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0456074' lon='82.9553522' />
+  <node id='1496135172' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0456239' lon='82.9560097' />
+  <node id='1496135173' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0459362' lon='82.9560201' />
+  <node id='1496135174' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0455813' lon='82.955371' />
+  <node id='1496135175' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0455736' lon='82.9554327' />
+  <node id='1496135176' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.045781' lon='82.9559101' />
+  <node id='1496135177' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.045738' lon='82.9559611' />
+  <node id='1496135178' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315' lat='55.0456838' lon='82.9560687' />
+  <node id='1562816966' timestamp='2011-12-26T19:25:47Z' uid='237049' user='siberiano' visible='true' version='1' changeset='10209974' lat='55.0281588' lon='82.9200827' />
+  <node id='1562816968' timestamp='2011-12-26T19:25:47Z' uid='237049' user='siberiano' visible='true' version='1' changeset='10209974' lat='55.0281812' lon='82.9204619' />
+  <node id='1562816970' timestamp='2011-12-26T19:25:47Z' uid='237049' user='siberiano' visible='true' version='1' changeset='10209974' lat='55.0293702' lon='82.9193463' />
+  <node id='1664265632' timestamp='2012-03-07T13:30:24Z' uid='395715' user='oo-O-oo' visible='true' version='1' changeset='10899757' lat='55.0583754' lon='82.9001071' />
+  <node id='1722078730' timestamp='2012-06-26T18:12:11Z' uid='317862' user='Pavel Melnikov' visible='true' version='2' changeset='12029100' lat='55.0565409' lon='82.8786147' />
+  <node id='1722078735' timestamp='2012-04-18T17:33:43Z' uid='395715' user='oo-O-oo' visible='true' version='1' changeset='11346503' lat='55.05678' lon='82.8789002' />
+  <node id='1722078747' timestamp='2012-06-26T15:25:40Z' uid='317862' user='Pavel Melnikov' visible='true' version='2' changeset='12027651' lat='55.0570158' lon='82.8888559' />
+  <node id='1722078767' timestamp='2012-04-18T17:33:43Z' uid='395715' user='oo-O-oo' visible='true' version='1' changeset='11346503' lat='55.0571677' lon='82.8800302' />
+  <node id='1722078779' timestamp='2012-04-18T17:33:44Z' uid='395715' user='oo-O-oo' visible='true' version='1' changeset='11346503' lat='55.0575882' lon='82.8882386' />
+  <node id='1722078789' timestamp='2012-04-18T17:33:44Z' uid='395715' user='oo-O-oo' visible='true' version='1' changeset='11346503' lat='55.0580711' lon='82.8811717' />
+  <node id='1722078795' timestamp='2012-04-18T17:33:44Z' uid='395715' user='oo-O-oo' visible='true' version='1' changeset='11346503' lat='55.0581139' lon='82.8885197' />
+  <node id='1723731556' timestamp='2013-10-22T09:26:19Z' uid='217899' user='Miroff' visible='true' version='3' changeset='18482913' lat='55.0559623' lon='82.8882322' />
+  <node id='1723731560' timestamp='2013-10-22T09:26:19Z' uid='217899' user='Miroff' visible='true' version='3' changeset='18482913' lat='55.0562948' lon='82.888842' />
+  <node id='1777152154' action='delete' timestamp='2012-06-05T14:52:07Z' uid='696485' user='maryfedor' visible='true' version='1' changeset='11806886' lat='54.922393' lon='82.9933314' />
+  <node id='1777152155' action='delete' timestamp='2012-06-05T14:52:07Z' uid='696485' user='maryfedor' visible='true' version='1' changeset='11806886' lat='54.9217641' lon='82.994297' />
+  <node id='1777152156' action='delete' timestamp='2012-06-05T14:52:07Z' uid='696485' user='maryfedor' visible='true' version='1' changeset='11806886' lat='54.9223868' lon='82.994297' />
+  <node id='1777152157' action='delete' timestamp='2012-06-05T14:52:07Z' uid='696485' user='maryfedor' visible='true' version='1' changeset='11806886' lat='54.9217826' lon='82.9933207' />
+  <node id='1802864825' timestamp='2012-06-26T15:04:52Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12027468' lat='55.0552582' lon='82.8856627'>
+    <tag k='access' v='no' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1802883733' timestamp='2013-10-22T09:26:20Z' uid='217899' user='Miroff' visible='true' version='2' changeset='18482913' lat='55.0562658' lon='82.888653' />
+  <node id='1802883742' timestamp='2012-06-26T15:25:35Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12027651' lat='55.0563726' lon='82.8889986' />
+  <node id='1834933750' timestamp='2012-07-23T05:12:38Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='12444280' lat='55.0108881' lon='82.9294349' />
+  <node id='1834933754' timestamp='2013-04-04T18:33:13Z' uid='830106' user='literan' visible='true' version='2' changeset='15611253' lat='55.0113647' lon='82.9251722' />
+  <node id='1834933760' timestamp='2012-07-23T05:12:39Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='12444280' lat='55.011607' lon='82.925418' />
+  <node id='1834933776' timestamp='2012-07-23T05:12:39Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='12444280' lat='55.0118685' lon='82.9262293' />
+  <node id='1834933781' timestamp='2012-07-23T05:12:39Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='12444280' lat='55.011933' lon='82.9251988' />
+  <node id='1834933786' timestamp='2012-07-23T05:12:39Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='12444280' lat='55.0122149' lon='82.9255601' />
+  <node id='1859240059' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8882247' lon='83.1202358' />
+  <node id='1859240063' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8882654' lon='83.1203091' />
+  <node id='1859240066' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8882808' lon='83.1201162' />
+  <node id='1859240069' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8883019' lon='83.1201504' />
+  <node id='1859240073' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8883497' lon='83.1204495' />
+  <node id='1859240077' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8883517' lon='83.1203493' />
+  <node id='1859240081' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8883946' lon='83.1200869' />
+  <node id='1859240087' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8884353' lon='83.1198671' />
+  <node id='1859240114' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.888448' lon='83.119894' />
+  <node id='1859240116' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.888449' lon='83.1201732' />
+  <node id='1859240117' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8885477' lon='83.1196474' />
+  <node id='1859240119' timestamp='2012-08-09T18:58:55Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8885503' lon='83.1207913' />
+  <node id='1859240121' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8885841' lon='83.120781' />
+  <node id='1859240125' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8885954' lon='83.1197133' />
+  <node id='1859240127' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.888719' lon='83.1193348' />
+  <node id='1859240131' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8887612' lon='83.1194154' />
+  <node id='1859240133' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8888264' lon='83.119151' />
+  <node id='1859240135' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8890826' lon='83.1191545' />
+  <node id='1859240143' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8892535' lon='83.1194515' />
+  <node id='1859240147' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8892554' lon='83.1196138' />
+  <node id='1859240155' timestamp='2012-08-09T18:58:56Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256' lat='54.8892793' lon='83.1195033' />
+  <node id='1914089081' timestamp='2012-09-14T13:53:10Z' uid='236129' user='Z440' visible='true' version='1' changeset='13107633' lat='55.0419717' lon='82.9110248' />
+  <node id='1914089082' timestamp='2012-09-14T13:53:10Z' uid='236129' user='Z440' visible='true' version='1' changeset='13107633' lat='55.042103' lon='82.9113955' />
+  <node id='1914089084' timestamp='2012-09-14T13:53:11Z' uid='236129' user='Z440' visible='true' version='1' changeset='13107633' lat='55.042376' lon='82.9111251' />
+  <node id='1914089094' timestamp='2012-09-14T13:53:12Z' uid='236129' user='Z440' visible='true' version='1' changeset='13107633' lat='55.0430061' lon='82.912679' />
+  <node id='1914089100' timestamp='2012-09-14T13:53:12Z' uid='236129' user='Z440' visible='true' version='1' changeset='13107633' lat='55.0431221' lon='82.9126521' />
+  <node id='1914089133' timestamp='2012-09-14T13:53:14Z' uid='236129' user='Z440' visible='true' version='1' changeset='13107633' lat='55.0445273' lon='82.9123258' />
+  <node id='2177962145' timestamp='2013-09-15T02:33:02Z' uid='651147' user='mike_lyulyukin' visible='true' version='3' changeset='17842909' lat='55.0818276' lon='82.9641508' />
+  <node id='2177962176' action='delete' timestamp='2013-08-23T13:47:28Z' uid='1219486' user='koSS_Rus' visible='true' version='2' changeset='17469871' lat='55.08317723594' lon='82.96272676345' />
+  <node id='2177962197' action='delete' timestamp='2013-09-15T02:33:02Z' uid='651147' user='mike_lyulyukin' visible='true' version='3' changeset='17842909' lat='55.08294033757' lon='82.96225526345' />
+  <node id='2177962217' timestamp='2013-02-28T04:31:18Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15192203' lat='55.083409' lon='82.962419' />
+  <node id='2177962231' action='delete' timestamp='2013-09-15T02:33:02Z' uid='651147' user='mike_lyulyukin' visible='true' version='2' changeset='17842909' lat='55.0830545' lon='82.9629753' />
+  <node id='2177962240' timestamp='2013-09-15T02:33:02Z' uid='651147' user='mike_lyulyukin' visible='true' version='3' changeset='17842909' lat='55.0820264' lon='82.9645282' />
+  <node id='2177962242' action='delete' timestamp='2013-09-15T02:33:02Z' uid='651147' user='mike_lyulyukin' visible='true' version='2' changeset='17842909' lat='55.0828498' lon='82.962595' />
+  <node id='2177962244' timestamp='2013-02-28T04:31:19Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15192203' lat='55.0831207' lon='82.9618834' />
+  <node id='2181253583' timestamp='2013-07-25T05:26:50Z' uid='34654' user='Ratty' visible='true' version='2' changeset='17083706' lat='54.9907762' lon='82.8794575' />
+  <node id='2181253585' timestamp='2013-07-25T05:26:50Z' uid='34654' user='Ratty' visible='true' version='2' changeset='17083706' lat='54.9895111' lon='82.8796399' />
+  <node id='2181253588' timestamp='2013-07-25T05:26:50Z' uid='34654' user='Ratty' visible='true' version='2' changeset='17083706' lat='54.9906841' lon='82.8775163' />
+  <node id='2181253590' timestamp='2013-07-25T05:26:50Z' uid='34654' user='Ratty' visible='true' version='2' changeset='17083706' lat='54.989419' lon='82.8776987' />
+  <node id='2181479036' timestamp='2013-10-22T09:26:20Z' uid='217899' user='Miroff' visible='true' version='2' changeset='18482913' lat='55.0555798' lon='82.886861'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2206392027' timestamp='2013-03-17T09:28:16Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15393032' lat='55.0751596' lon='82.9079701' />
+  <node id='2206392030' timestamp='2013-03-17T09:28:16Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15393032' lat='55.0750453' lon='82.9078282' />
+  <node id='2246998087' action='delete' timestamp='2013-04-03T18:09:59Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0293564' lon='82.9114609' />
+  <node id='2246998088' action='delete' timestamp='2013-04-03T18:09:59Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0293609' lon='82.9114531' />
+  <node id='2246998090' action='delete' timestamp='2013-04-03T18:09:59Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0294232' lon='82.911435' />
+  <node id='2246998091' action='delete' timestamp='2013-04-03T18:09:59Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0294276' lon='82.9121781' />
+  <node id='2246998092' action='delete' timestamp='2013-04-03T18:09:59Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0294529' lon='82.9114505' />
+  <node id='2246998093' action='delete' timestamp='2013-04-03T18:09:59Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0294529' lon='82.9121755' />
+  <node id='2246998094' action='delete' timestamp='2013-04-03T18:10:00Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0294781' lon='82.9120823' />
+  <node id='2246998095' action='delete' timestamp='2013-04-03T18:10:00Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0294811' lon='82.9115437' />
+  <node id='2246998096' action='delete' timestamp='2013-04-03T18:10:00Z' uid='830106' user='literan' visible='true' version='1' changeset='15598235' lat='55.0295152' lon='82.912002' />
+  <node id='2287232290' timestamp='2013-04-30T21:43:03Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15926521' lat='55.0768761' lon='82.9076349' />
+  <node id='2287232301' timestamp='2013-04-30T21:43:03Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15926521' lat='55.0758937' lon='82.9064826' />
+  <node id='2290248715' timestamp='2013-05-03T11:00:11Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15958396' lat='55.0451568' lon='82.9473919' />
+  <node id='2290248751' timestamp='2013-05-03T11:00:11Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15958396' lat='55.0449798' lon='82.9470253' />
+  <node id='2458810388' timestamp='2013-09-15T02:33:01Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='17842909' lat='55.0819255' lon='82.9638564' />
+  <node id='2458810389' timestamp='2013-09-15T02:33:01Z' uid='651147' user='mike_lyulyukin' visible='true' version='1' changeset='17842909' lat='55.0828677' lon='82.9622789' />
+  <node id='2504759964' timestamp='2013-10-22T09:26:12Z' uid='217899' user='Miroff' visible='true' version='1' changeset='18482913' lat='55.0550712' lon='82.8849704' />
+  <node id='2504760025' timestamp='2013-10-22T09:26:13Z' uid='217899' user='Miroff' visible='true' version='1' changeset='18482913' lat='55.0561967' lon='82.8881045' />
+  <node id='2504760029' timestamp='2013-10-22T09:26:14Z' uid='217899' user='Miroff' visible='true' version='1' changeset='18482913' lat='55.0562929' lon='82.8886402' />
+  <node id='2504760031' timestamp='2013-10-22T09:26:14Z' uid='217899' user='Miroff' visible='true' version='1' changeset='18482913' lat='55.0563609' lon='82.8888349' />
+  <node id='2582014346' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='1' changeset='19476847' lat='55.0152436' lon='82.9487172' />
+  <node id='2582014347' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='1' changeset='19476847' lat='55.0166148' lon='82.9476746' />
+  <node id='2582014348' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='1' changeset='19476847' lat='55.0161622' lon='82.9487948' />
+  <node id='2582014349' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='1' changeset='19476847' lat='55.0165306' lon='82.949237' />
+  <node id='2582014350' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='1' changeset='19476847' lat='55.0169682' lon='82.9481373' />
+  <node id='2662869575' timestamp='2014-02-09T09:11:01Z' uid='357695' user='lifeslider' visible='true' version='1' changeset='20460649' lat='55.0281152' lon='82.9132591' />
+  <node id='2736590125' timestamp='2014-03-23T13:46:34Z' uid='110263' user='werner2101' visible='true' version='1' changeset='21264333' lat='55.0425899' lon='82.9397673' />
+  <node id='2736590126' timestamp='2014-03-23T13:46:34Z' uid='110263' user='werner2101' visible='true' version='1' changeset='21264333' lat='55.0427015' lon='82.9410137' />
+  <node id='2736590128' timestamp='2014-03-23T13:46:34Z' uid='110263' user='werner2101' visible='true' version='1' changeset='21264333' lat='55.0434742' lon='82.9395261' />
+  <node id='2736590129' timestamp='2014-03-23T13:46:34Z' uid='110263' user='werner2101' visible='true' version='1' changeset='21264333' lat='55.0435858' lon='82.9407725' />
+  <node id='2874004266' action='delete' timestamp='2014-05-22T06:50:43Z' uid='2085784' user='mit3612' visible='true' version='1' changeset='22479766' lat='55.0776024' lon='82.9569177' />
+  <node id='2937809239' visible='true' version='1' changeset='23250626' lat='54.84763142071' lon='82.9701642004' />
+  <node id='2937809240' visible='true' version='1' changeset='23250626' lat='54.84767183716' lon='82.97115866656' />
+  <node id='2937809241' visible='true' version='1' changeset='23250626' lat='54.84782339849' lon='82.96959091991' />
+  <node id='2937809242' visible='true' version='1' changeset='23250626' lat='54.84783013454' lon='82.97209463471' />
+  <node id='2937809243' visible='true' version='1' changeset='23250626' lat='54.8478907589' lon='82.97029874582' />
+  <node id='2937809244' visible='true' version='1' changeset='23250626' lat='54.84789412692' lon='82.96983076175' />
+  <node id='2937809245' visible='true' version='1' changeset='23250626' lat='54.84789412692' lon='82.97056198686' />
+  <node id='2937809246' visible='true' version='1' changeset='23250626' lat='54.84797832727' lon='82.9707842793' />
+  <node id='2937809247' visible='true' version='1' changeset='23250626' lat='54.84801200735' lon='82.97287265823' />
+  <node id='2937809248' visible='true' version='1' changeset='23250626' lat='54.8483319668' lon='82.97373842877' />
+  <node id='2937809249' visible='true' version='1' changeset='23250626' lat='54.84947706403' lon='82.97375012838' />
+  <node id='2937809250' visible='true' version='1' changeset='23250626' lat='54.84961851496' lon='82.97616609616' />
+  <node id='2937809251' visible='true' version='1' changeset='23250626' lat='54.85111719079' lon='82.97682127387' />
+  <node id='2937809252' visible='true' version='1' changeset='23250626' lat='54.85165602692' lon='82.97804388227' />
+  <node id='2937809253' visible='true' version='1' changeset='23250626' lat='54.85227231192' lon='82.9813373202' />
+  <node id='2937809254' visible='true' version='1' changeset='23250626' lat='54.85268316336' lon='82.9807113915' />
+  <way id='-512' action='modify' visible='true'>
+    <nd ref='-60' />
+    <nd ref='-62' />
+    <nd ref='-64' />
+    <nd ref='-66' />
+    <nd ref='-60' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='-510' action='modify' visible='true'>
+    <nd ref='-52' />
+    <nd ref='-54' />
+    <nd ref='-56' />
+    <nd ref='-58' />
+    <nd ref='-52' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='-508' action='modify' visible='true'>
+    <nd ref='280107531' />
+    <nd ref='-36' />
+    <nd ref='-38' />
+    <nd ref='-40' />
+    <nd ref='-42' />
+    <nd ref='-44' />
+    <nd ref='-46' />
+    <nd ref='-48' />
+    <nd ref='-50' />
+    <nd ref='1722078747' />
+    <nd ref='280107457' />
+    <nd ref='1722078779' />
+    <nd ref='1722078795' />
+    <nd ref='280107808' />
+    <nd ref='1722078789' />
+    <nd ref='1722078767' />
+    <nd ref='1722078735' />
+    <nd ref='1722078730' />
+    <nd ref='280107531' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='-506' action='modify' visible='true'>
+    <nd ref='-12' />
+    <nd ref='-14' />
+    <nd ref='-16' />
+    <nd ref='-18' />
+    <nd ref='-20' />
+    <nd ref='-22' />
+    <nd ref='-24' />
+    <nd ref='-26' />
+    <nd ref='-28' />
+    <nd ref='-30' />
+    <nd ref='-32' />
+    <nd ref='-34' />
+    <nd ref='-12' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='25642909' timestamp='2011-04-08T17:46:30Z' uid='53468' user='yohanson' visible='true' version='7' changeset='7806198'>
+    <nd ref='279528387' />
+    <nd ref='279528388' />
+    <nd ref='279528393' />
+    <nd ref='279528394' />
+    <nd ref='1237469090' />
+    <nd ref='279528387' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Центральный парк' />
+  </way>
+  <way id='25642995' action='modify' timestamp='2011-05-22T07:54:37Z' uid='40577' user='guggis' visible='true' version='7' changeset='8213182'>
+    <nd ref='279529328' />
+    <nd ref='279529329' />
+    <nd ref='1295744597' />
+    <nd ref='1295744610' />
+    <nd ref='279529330' />
+    <nd ref='279529331' />
+    <nd ref='1295744599' />
+    <nd ref='279529337' />
+    <nd ref='1295744645' />
+    <nd ref='914760518' />
+    <nd ref='914760457' />
+    <nd ref='279529340' />
+    <nd ref='1295744564' />
+    <nd ref='1295744549' />
+    <nd ref='1295744611' />
+    <nd ref='1295744569' />
+    <nd ref='279529341' />
+    <nd ref='705793489' />
+    <nd ref='279529342' />
+    <nd ref='279529328' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер Оперного театра' />
+  </way>
+  <way id='25642999' timestamp='2011-12-26T19:25:49Z' uid='237049' user='siberiano' visible='true' version='6' changeset='10209974'>
+    <nd ref='279529555' />
+    <nd ref='1562816968' />
+    <nd ref='1562816966' />
+    <nd ref='279529557' />
+    <nd ref='1562816970' />
+    <nd ref='279529558' />
+    <nd ref='279529559' />
+    <nd ref='279529555' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Первомайский сквер' />
+  </way>
+  <way id='25657738' timestamp='2013-05-03T11:00:12Z' uid='1219486' user='koSS_Rus' visible='true' version='5' changeset='15958396'>
+    <nd ref='279699433' />
+    <nd ref='279699434' />
+    <nd ref='279699435' />
+    <nd ref='279699437' />
+    <nd ref='279699438' />
+    <nd ref='279699439' />
+    <nd ref='279699440' />
+    <nd ref='2290248715' />
+    <nd ref='2290248751' />
+    <nd ref='660745790' />
+    <nd ref='279699442' />
+    <nd ref='332688835' />
+    <nd ref='279699433' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Берёзовая роща' />
+  </way>
+  <way id='25658024' action='modify' timestamp='2013-12-16T06:48:36Z' uid='542925' user='alex_hitman' visible='true' version='3' changeset='19476847'>
+    <nd ref='279701485' />
+    <nd ref='279701486' />
+    <nd ref='2582014350' />
+    <nd ref='2582014349' />
+    <nd ref='2582014348' />
+    <nd ref='2582014347' />
+    <nd ref='279701487' />
+    <nd ref='2582014346' />
+    <nd ref='279701488' />
+    <nd ref='279701485' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер ГПНТБ' />
+  </way>
+  <way id='25673117' action='modify' timestamp='2012-07-23T05:12:41Z' uid='651147' user='mike_lyulyukin' visible='true' version='3' changeset='12444280'>
+    <nd ref='279882619' />
+    <nd ref='279882620' />
+    <nd ref='279882621' />
+    <nd ref='279882622' />
+    <nd ref='1834933754' />
+    <nd ref='1834933760' />
+    <nd ref='1834933781' />
+    <nd ref='1834933786' />
+    <nd ref='1834933776' />
+    <nd ref='1834933750' />
+    <nd ref='279882619' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Набережная и Городское начало' />
+  </way>
+  <way id='25673144' action='modify' timestamp='2011-01-01T17:21:26Z' uid='233726' user='Kaylee' visible='true' version='3' changeset='6829939'>
+    <nd ref='279882868' />
+    <nd ref='279882869' />
+    <nd ref='279882870' />
+    <nd ref='279882871' />
+    <nd ref='1077139298' />
+    <nd ref='279882872' />
+    <nd ref='279882873' />
+    <nd ref='279882874' />
+    <nd ref='279882875' />
+    <nd ref='279882876' />
+    <nd ref='279882877' />
+    <nd ref='279882878' />
+    <nd ref='279882879' />
+    <nd ref='279882880' />
+    <nd ref='279882868' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Набережная Речного вокзала' />
+  </way>
+  <way id='25691254' timestamp='2013-10-22T09:26:17Z' uid='217899' user='Miroff' visible='true' version='16' changeset='18482913'>
+    <nd ref='1722078747' />
+    <nd ref='280107457' />
+    <nd ref='1722078779' />
+    <nd ref='1722078795' />
+    <nd ref='280107808' />
+    <nd ref='1722078789' />
+    <nd ref='1722078767' />
+    <nd ref='1722078735' />
+    <nd ref='1722078730' />
+    <nd ref='280107459' />
+    <nd ref='280107531' />
+    <nd ref='280107810' />
+    <nd ref='439327291' />
+    <nd ref='296527154' />
+    <nd ref='296527156' />
+    <nd ref='280107811' />
+    <nd ref='280107533' />
+    <nd ref='2504759964' />
+    <nd ref='1802864825' />
+    <nd ref='2181479036' />
+    <nd ref='1723731556' />
+    <nd ref='2504760025' />
+    <nd ref='2504760029' />
+    <nd ref='1802883733' />
+    <nd ref='1723731560' />
+    <nd ref='2504760031' />
+    <nd ref='1802883742' />
+    <nd ref='1722078747' />
+    <tag k='addr:city' v='Новосибирск' />
+    <tag k='addr:housenumber' v='71/1' />
+    <tag k='addr:postcode' v='630001' />
+    <tag k='addr:street' v='улица Тимирязева' />
+    <tag k='barrier' v='fence' />
+    <tag k='name' v='Новосибирский зоопарк' />
+    <tag k='name:en' v='Novosibirsk Zoo' />
+    <tag k='name:int' v='Novosibirsk Zoo' />
+    <tag k='tourism' v='zoo' />
+  </way>
+  <way id='25692127' timestamp='2013-08-15T13:48:28Z' uid='34654' user='Ratty' visible='true' version='5' changeset='17359578'>
+    <nd ref='280116165' />
+    <nd ref='280116167' />
+    <nd ref='686198928' />
+    <nd ref='686198931' />
+    <nd ref='686198941' />
+    <nd ref='686198940' />
+    <nd ref='686199038' />
+    <nd ref='686199874' />
+    <nd ref='280116169' />
+    <nd ref='686199963' />
+    <nd ref='280116171' />
+    <nd ref='686199448' />
+    <nd ref='686199301' />
+    <nd ref='686199274' />
+    <nd ref='280116165' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Монумент Славы' />
+    <tag k='wikipedia:ru' v='Монумент Славы (Новосибирск)' />
+  </way>
+  <way id='25768832' timestamp='2012-09-14T13:53:18Z' uid='236129' user='Z440' visible='true' version='6' changeset='13107633'>
+    <nd ref='281052190' />
+    <nd ref='727353495' />
+    <nd ref='281052191' />
+    <nd ref='1183458135' />
+    <nd ref='281052192' />
+    <nd ref='1183457277' />
+    <nd ref='1183456992' />
+    <nd ref='281052193' />
+    <nd ref='281052194' />
+    <nd ref='281052195' />
+    <nd ref='281052196' />
+    <nd ref='1183456876' />
+    <nd ref='1183458002' />
+    <nd ref='281052197' />
+    <nd ref='281052198' />
+    <nd ref='281052199' />
+    <nd ref='281052200' />
+    <nd ref='281052201' />
+    <nd ref='281052202' />
+    <nd ref='281052203' />
+    <nd ref='1914089081' />
+    <nd ref='1914089082' />
+    <nd ref='1914089084' />
+    <nd ref='281052204' />
+    <nd ref='281052205' />
+    <nd ref='281052206' />
+    <nd ref='281052207' />
+    <nd ref='1914089094' />
+    <nd ref='1914089100' />
+    <nd ref='1914089133' />
+    <nd ref='281052190' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Нарымский сквер' />
+  </way>
+  <way id='25768883' action='modify' timestamp='2014-02-09T09:11:03Z' uid='357695' user='lifeslider' visible='true' version='3' changeset='20460649'>
+    <nd ref='281052573' />
+    <nd ref='281052574' />
+    <nd ref='281052575' />
+    <nd ref='2662869575' />
+    <nd ref='281052573' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер НГАВТ' />
+  </way>
+  <way id='25768888' action='modify' timestamp='2010-09-21T16:20:32Z' uid='53468' user='yohanson' visible='true' version='2' changeset='5838293'>
+    <nd ref='281052668' />
+    <nd ref='281052669' />
+    <nd ref='281052670' />
+    <nd ref='281052671' />
+    <nd ref='920430024' />
+    <nd ref='920430033' />
+    <nd ref='281052672' />
+    <nd ref='281052668' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер театра Глобус' />
+  </way>
+  <way id='25768967' action='delete' timestamp='2013-04-11T16:24:55Z' uid='1219486' user='koSS_Rus' visible='true' version='3' changeset='15691820'>
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='25973057' timestamp='2010-12-08T03:31:23Z' uid='237045' user='Magomogo' visible='true' version='5' changeset='6581879'>
+    <nd ref='283338816' />
+    <nd ref='283338817' />
+    <nd ref='1027570371' />
+    <nd ref='1027570559' />
+    <nd ref='283338818' />
+    <nd ref='1027569879' />
+    <nd ref='283338819' />
+    <nd ref='283338816' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Троицкий сквер' />
+  </way>
+  <way id='36774872' timestamp='2013-07-06T03:12:50Z' uid='34654' user='Ratty' visible='true' version='4' changeset='16843957'>
+    <nd ref='427565102' />
+    <nd ref='427565103' />
+    <nd ref='427565104' />
+    <nd ref='427565105' />
+    <nd ref='427565106' />
+    <nd ref='427565107' />
+    <nd ref='427565108' />
+    <nd ref='427565109' />
+    <nd ref='427565110' />
+    <nd ref='427565102' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='ПКиО им. Кирова' />
+  </way>
+  <way id='41848759' timestamp='2011-08-19T17:38:09Z' uid='217899' user='Miroff' visible='true' version='5' changeset='9067649'>
+    <nd ref='690551819' />
+    <nd ref='690551821' />
+    <nd ref='517352453' />
+    <nd ref='517352455' />
+    <nd ref='517352456' />
+    <nd ref='690551665' />
+    <nd ref='517352458' />
+    <nd ref='1402660304' />
+    <nd ref='517352461' />
+    <nd ref='517352463' />
+    <nd ref='1404715156' />
+    <nd ref='1402660306' />
+    <nd ref='690551819' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Парк им.Покрышкина' />
+  </way>
+  <way id='51007240' timestamp='2010-04-06T06:37:11Z' uid='246049' user='kimol' visible='true' version='3' changeset='4340684'>
+    <nd ref='650379620' />
+    <nd ref='685117640' />
+    <nd ref='685117641' />
+    <nd ref='685117642' />
+    <nd ref='685117638' />
+    <nd ref='685117639' />
+    <nd ref='685117649' />
+    <nd ref='650379622' />
+    <nd ref='685117647' />
+    <nd ref='685117655' />
+    <nd ref='685117656' />
+    <nd ref='685117657' />
+    <nd ref='685117658' />
+    <nd ref='685117659' />
+    <nd ref='685117654' />
+    <nd ref='650379624' />
+    <nd ref='650379621' />
+    <nd ref='650379620' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Ботанический сад' />
+  </way>
+  <way id='51142648' timestamp='2011-09-08T15:15:00Z' uid='472114' user='zebooka' visible='true' version='4' changeset='9246488'>
+    <nd ref='653109782' />
+    <nd ref='653109771' />
+    <nd ref='653109770' />
+    <nd ref='653109769' />
+    <nd ref='652469103' />
+    <nd ref='652469105' />
+    <nd ref='652469010' />
+    <nd ref='652469011' />
+    <nd ref='652469013' />
+    <nd ref='652469014' />
+    <nd ref='652469017' />
+    <nd ref='652469029' />
+    <nd ref='652469033' />
+    <nd ref='652469037' />
+    <nd ref='652469040' />
+    <nd ref='652469043' />
+    <nd ref='652469046' />
+    <nd ref='652469050' />
+    <nd ref='652469054' />
+    <nd ref='652469057' />
+    <nd ref='652469065' />
+    <nd ref='1427058645' />
+    <nd ref='652469070' />
+    <nd ref='653109781' />
+    <nd ref='653109782' />
+    <tag k='landuse' v='forest' />
+    <tag k='wood' v='mixed' />
+  </way>
+  <way id='51189508' timestamp='2011-09-08T15:14:59Z' uid='472114' user='zebooka' visible='true' version='4' changeset='9246488'>
+    <nd ref='653109776' />
+    <nd ref='653109774' />
+    <nd ref='653109775' />
+    <nd ref='652469075' />
+    <nd ref='1427058755' />
+    <nd ref='1427058741' />
+    <nd ref='652469079' />
+    <nd ref='1427058757' />
+    <nd ref='652469083' />
+    <nd ref='652469087' />
+    <nd ref='652469089' />
+    <nd ref='652469093' />
+    <nd ref='655162252' />
+    <nd ref='652469096' />
+    <nd ref='652469099' />
+    <nd ref='652468995' />
+    <nd ref='653109776' />
+    <tag k='landuse' v='forest' />
+    <tag k='wood' v='mixed' />
+  </way>
+  <way id='51871592' action='delete' timestamp='2010-03-08T17:14:39Z' uid='215962' user='ImmortAlex' visible='true' version='2' changeset='4073653'>
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Павловский сквер' />
+  </way>
+  <way id='51871600' action='modify' timestamp='2014-05-22T06:50:45Z' uid='2085784' user='mit3612' visible='true' version='3' changeset='22479766'>
+    <nd ref='662024735' />
+    <nd ref='662024766' />
+    <nd ref='662024760' />
+    <nd ref='662024733' />
+    <nd ref='662024737' />
+    <nd ref='662024734' />
+    <nd ref='662024736' />
+    <nd ref='662024738' />
+    <nd ref='662024735' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Павловский сквер' />
+  </way>
+  <way id='53003964' timestamp='2013-02-27T19:35:20Z' uid='1219486' user='koSS_Rus' visible='true' version='3' changeset='15189403'>
+    <nd ref='671396713' />
+    <nd ref='671396703' />
+    <nd ref='671396705' />
+    <nd ref='671396706' />
+    <nd ref='1664265632' />
+    <nd ref='671396722' />
+    <nd ref='671396730' />
+    <nd ref='671396713' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Тимирязевский сквер' />
+  </way>
+  <way id='53098200' timestamp='2013-04-30T21:43:08Z' uid='1219486' user='koSS_Rus' visible='true' version='4' changeset='15926521'>
+    <nd ref='672209012' />
+    <nd ref='672209017' />
+    <nd ref='2287232290' />
+    <nd ref='672209039' />
+    <nd ref='2206392027' />
+    <nd ref='672209007' />
+    <nd ref='2206392030' />
+    <nd ref='672209009' />
+    <nd ref='2287232301' />
+    <nd ref='672209012' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер им. Чаплыгина' />
+  </way>
+  <way id='53372013' timestamp='2010-04-03T05:29:35Z' uid='241798' user='AndreySmirnov' visible='true' version='2' changeset='4309817'>
+    <nd ref='674930339' />
+    <nd ref='674930344' />
+    <nd ref='674930345' />
+    <nd ref='674930346' />
+    <nd ref='674930347' />
+    <nd ref='683028807' />
+    <nd ref='674930348' />
+    <nd ref='674931093' />
+    <nd ref='674931094' />
+    <nd ref='674930341' />
+    <nd ref='674930340' />
+    <nd ref='674930339' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='ПКиО им. Ф. Дзержинского' />
+  </way>
+  <way id='53372014' timestamp='2013-10-24T11:36:15Z' uid='1778375' user='Premer' visible='true' version='2' changeset='18518373'>
+    <nd ref='674930689' />
+    <nd ref='674930343' />
+    <nd ref='674931060' />
+    <nd ref='674930707' />
+    <nd ref='674930689' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер авиастроителей' />
+  </way>
+  <way id='54363717' timestamp='2010-04-06T10:48:21Z' uid='246049' user='kimol' visible='true' version='3' changeset='4342570'>
+    <nd ref='656753393' />
+    <nd ref='685117680' />
+    <nd ref='685117703' />
+    <nd ref='685117704' />
+    <nd ref='685117705' />
+    <nd ref='685117713' />
+    <nd ref='685117714' />
+    <nd ref='685117715' />
+    <nd ref='685117716' />
+    <nd ref='685117717' />
+    <nd ref='685117724' />
+    <nd ref='685117725' />
+    <nd ref='685117726' />
+    <nd ref='685117730' />
+    <nd ref='685117731' />
+    <nd ref='685117719' />
+    <nd ref='685117721' />
+    <nd ref='685117718' />
+    <nd ref='685117729' />
+    <nd ref='686502654' />
+    <nd ref='685117727' />
+    <nd ref='685117728' />
+    <nd ref='685117710' />
+    <nd ref='685117711' />
+    <nd ref='685117712' />
+    <nd ref='685117707' />
+    <nd ref='685117708' />
+    <nd ref='685117709' />
+    <nd ref='685117706' />
+    <nd ref='685117702' />
+    <nd ref='656753393' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Ботанический сад' />
+  </way>
+  <way id='55228146' timestamp='2011-01-31T04:54:51Z' uid='237045' user='Magomogo' visible='true' version='2' changeset='7142097'>
+    <nd ref='694210741' />
+    <nd ref='694210740' />
+    <nd ref='694210739' />
+    <nd ref='1129110883' />
+    <nd ref='694210626' />
+    <nd ref='694210627' />
+    <nd ref='694210632' />
+    <nd ref='694210631' />
+    <nd ref='694210636' />
+    <nd ref='694210741' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Парк &quot;Горский&quot;' />
+  </way>
+  <way id='59547865' timestamp='2011-04-08T17:46:33Z' uid='53468' user='yohanson' visible='true' version='2' changeset='7806198'>
+    <nd ref='738647448' />
+    <nd ref='738647450' />
+    <nd ref='738647426' />
+    <nd ref='738647317' />
+    <nd ref='738647464' />
+    <nd ref='1237468829' />
+    <nd ref='738647400' />
+    <nd ref='738647329' />
+    <nd ref='738647448' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='сквер Героев Революции' />
+  </way>
+  <way id='78431986' timestamp='2011-01-08T10:35:37Z' uid='237045' user='Magomogo' visible='true' version='2' changeset='6901852'>
+    <nd ref='920430047' />
+    <nd ref='920430038' />
+    <nd ref='920430027' />
+    <nd ref='920430010' />
+    <nd ref='920430014' />
+    <nd ref='920430053' />
+    <nd ref='1090938712' />
+    <nd ref='920430056' />
+    <nd ref='920430041' />
+    <nd ref='920430018' />
+    <nd ref='920430047' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='109200559' timestamp='2011-04-19T05:35:47Z' uid='233726' user='Kaylee' visible='true' version='1' changeset='7903331'>
+    <nd ref='1250749793' />
+    <nd ref='1250749848' />
+    <nd ref='1250749822' />
+    <nd ref='1250749922' />
+    <nd ref='1250749793' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='136387061' timestamp='2011-11-09T08:01:41Z' uid='441636' user='Spol81' visible='true' version='1' changeset='9779315'>
+    <nd ref='1496135168' />
+    <nd ref='1496135170' />
+    <nd ref='1496135171' />
+    <nd ref='1496135174' />
+    <nd ref='1496135175' />
+    <nd ref='1496135172' />
+    <nd ref='1496135178' />
+    <nd ref='1496135177' />
+    <nd ref='1496135176' />
+    <nd ref='1496135169' />
+    <nd ref='1496135167' />
+    <nd ref='1496135173' />
+    <nd ref='1496135168' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='166254855' action='delete' timestamp='2012-06-05T14:52:07Z' uid='696485' user='maryfedor' visible='true' version='1' changeset='11806886'>
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='175314802' timestamp='2012-08-09T18:58:57Z' uid='317862' user='Pavel Melnikov' visible='true' version='1' changeset='12672256'>
+    <nd ref='1859240133' />
+    <nd ref='1859240135' />
+    <nd ref='1859240143' />
+    <nd ref='1859240155' />
+    <nd ref='1859240147' />
+    <nd ref='1859240121' />
+    <nd ref='1859240119' />
+    <nd ref='1859240073' />
+    <nd ref='1859240077' />
+    <nd ref='1859240116' />
+    <nd ref='1859240081' />
+    <nd ref='1859240063' />
+    <nd ref='1859240059' />
+    <nd ref='1859240066' />
+    <nd ref='1859240069' />
+    <nd ref='1859240114' />
+    <nd ref='1859240087' />
+    <nd ref='1859240117' />
+    <nd ref='1859240125' />
+    <nd ref='1859240131' />
+    <nd ref='1859240127' />
+    <nd ref='1859240133' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='207538552' action='delete' timestamp='2013-09-15T02:33:01Z' uid='651147' user='mike_lyulyukin' visible='true' version='2' changeset='17842909'>
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='207538555' action='modify' timestamp='2013-09-15T02:33:01Z' uid='651147' user='mike_lyulyukin' visible='true' version='2' changeset='17842909'>
+    <nd ref='2177962217' />
+    <nd ref='-10' />
+    <nd ref='2177962240' />
+    <nd ref='2177962145' />
+    <nd ref='2458810388' />
+    <nd ref='-8' />
+    <nd ref='2458810389' />
+    <nd ref='2177962244' />
+    <nd ref='2177962217' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='207882123' timestamp='2013-03-02T12:30:38Z' uid='1219486' user='koSS_Rus' visible='true' version='1' changeset='15220846'>
+    <nd ref='2181253588' />
+    <nd ref='2181253583' />
+    <nd ref='2181253585' />
+    <nd ref='2181253590' />
+    <nd ref='2181253588' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Сквер им. Гагарина' />
+  </way>
+  <way id='215296268' action='delete' timestamp='2014-01-19T14:38:09Z' uid='357695' user='lifeslider' visible='true' version='2' changeset='20085611'>
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='268308104' timestamp='2014-03-23T13:46:34Z' uid='110263' user='werner2101' visible='true' version='1' changeset='21264333'>
+    <nd ref='2736590129' />
+    <nd ref='2736590126' />
+    <nd ref='2736590125' />
+    <nd ref='2736590128' />
+    <nd ref='2736590129' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='290224818' visible='true' version='1' changeset='23250626'>
+    <nd ref='2937809241' />
+    <nd ref='2937809239' />
+    <nd ref='2937809240' />
+    <nd ref='2937809242' />
+    <nd ref='2937809247' />
+    <nd ref='2937809248' />
+    <nd ref='2937809250' />
+    <nd ref='2937809253' />
+    <nd ref='2937809254' />
+    <nd ref='2937809252' />
+    <nd ref='2937809251' />
+    <nd ref='2937809249' />
+    <nd ref='2937809246' />
+    <nd ref='2937809245' />
+    <nd ref='2937809243' />
+    <nd ref='2937809244' />
+    <nd ref='2937809241' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='У моря обского' />
+    <tag k='name:en' v='At the Ob sea' />
+  </way>
+</osm>
