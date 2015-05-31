@@ -1,46 +1,51 @@
-Исследования парков Новосибирска
-================================
+Parks Audience Research
+=======================
 
-Это набор скриптов и запросов БД для исследования аудитории парков. Используются открытые данные - OpenStreetMap и базы данных департамента ЖКХ (не входит в репозиторий).
+[На русском][1]
 
-Вы можете использовать эти скрипты чтобы получить аналогичные результаты для своего исследования.
+This is a tool for parks audience research made in Novosibirsk city, Russia. The database uses open or purpose-mde data from OpenStreetMap and city public databases, and open routing services.
 
-Для этого нужно
+This tool is stored here to reproduce the results if needed, for portfolio or for others who want to make a similar research.
 
-1. Сделать файл с контурами парков (2.parks.osm) - импортировать из OSM или нарисовав вручную. Каждый контур должен иметь тег leisure=park
-1. Создать таблицу жителей в любой удобной группировке - по отдельным домам, кластеризованным домам, улицам или районам, с названием дома, чилом жителей и географическими координатами (srid 4326).
-1. Настроить базу данных PostGIS
-1. Выполнить последовательно скрипты (файлы .sh)
-1. Форматировать результаты на ваш вкус. (Возможно, здесь появится информационная панель в формате HTML или на веб-приложениях.)
+To just reuse the scripts you need
 
-Системные требования
+1. Make a file with parks contours (2.parks.osm). Import them from OpenStreetMap or draw in any OSM editor (like JOSM)
+1. Prepare the table of population. Each row must have address, number of inhabitants and geographic coordinates (WKT format). Group it as you need: by house, by community, etc.
+1. Set up a PostGIS database with proper access rights (see below)
+1. Run the `.sh` scripts
+1. Format the results in any software you prefer. (This project may once get an automated dashboard.)
 
-Подготовка учётной записи
--------------------------
+System requirements
+-------------------
 
-Откройте системную консоль и переключитесь на пользователя postgres:
+Ubuntu operating system, 13.10 or later. Postgresql 9.1 or newer, PostGIS 1.5 or newer.
 
-	sudo su - postgres
+Preparing The DB User
+---------------------
 
-Командная строка переключится с такого вида:
+Open the system shell. The shell prompt should look like this:
 
 	dmitri.lebedev@laptop:~$ 
 
-На такой:
+Switch to user `postgres`:
+
+	sudo su - postgres
+
+(You'll have to enter your root password) The shell should look like this:
 
 	postgres=#
 
-Выполните в ней следующие команды, заменив `<user>` на имя пользователя в Ubuntu:
+Run the following commands, replace `<user>` with your Ubuntu username:
 
 	psql -c "CREATE ROLE <user> CREATEDB;"
 	psql -c \"ALTER ROLE <user> with password 'gis';\"
 
-С этого момента вы сможете создавать и пересоздавать свои базы данных.
+Now you can create and drop databases from your username in the shell.
 
-Шаблон базы данных PostGIS
---------------------------
+PostGIS Database Template
+-------------------------
 
-Зайдите в запись postgres (как описано выше) и выполните следующие команды:
+Switch to user `postgres` (as described above) and execute the following commands. If your OS/PostGIS/Postgres version differs, file paths may be different. Search for files `postgis.sql` and `spatial_ref_sys.sql` to get correct paths and replace them in this script.
 
 	createdb -E UTF8 -U postgres template_postgis
 	createlang -d template_postgis plpgsql;
@@ -52,3 +57,7 @@
 	psql -U postgres -c "update pg_database set datistemplate=true  where datname='template_postgis';"
 	psql -U postgres -d template_postgis -c"select postgis_lib_version();"
 
+
+
+
+  [1]: https://github.com/culebron/nskparks/blob/master/readme.ru.md
