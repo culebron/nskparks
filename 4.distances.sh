@@ -1,0 +1,1 @@
+psql nskparks < 4.distances.sql

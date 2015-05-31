@@ -1,1 +1,0 @@
-psql nskparks < 4.distance-profile.sql
