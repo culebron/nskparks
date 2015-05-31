@@ -1,16 +1,19 @@
-﻿create type distance_type as enum ('direct', 'car', 'public');
-create type aggregate_type as enum ('local', 'total');
+﻿create table if not exists distance_type
+	(name char(20) not null PRIMARY key);
+
+insert into distance_type values ('direct'), ('car'), ('public');
 
 CREATE TABLE if not exists distances
 (
    park integer NOT NULL, 
    house integer NOT NULL, 
-   dtype distance_type default 'direct',
+   dtype char(20) not null,
    distance double precision, 
    population integer,
    PRIMARY KEY (park, house, dtype), 
    FOREIGN KEY (house) REFERENCES houses (id) ON UPDATE NO ACTION ON DELETE cascade, 
-   FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade
+   FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade,
+   FOREIGN KEY (dtype) REFERENCES distance_type (name) ON UPDATE NO ACTION ON DELETE cascade
 );
 delete from distances;
 
@@ -27,23 +30,20 @@ create table if not exists distance_profile
 (
    park integer NOT NULL, 
    distance double precision not null, 
-   dtype distance_type default 'direct',
-   atype aggregate_type default 'local',
-   people integer not null default 0,
-   PRIMARY KEY (park, distance, dtype, atype), 
-   FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade
+   dtype char(20) not null,
+   people_local integer not null default 0,
+   people_total integer not null default 0,
+   PRIMARY KEY (park, distance, dtype), 
+   FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade,
+   FOREIGN KEY (dtype) REFERENCES distance_type (name) ON UPDATE NO ACTION ON DELETE cascade
 );
 delete from distance_profile;
 
 insert into distance_profile
-	(park, distance, dtype, atype)
+	(park, distance, dtype)
 with
 	x as (select park, max(distance::int) md, dtype from distances group by park, dtype)
-select
-	park, generate_series(250, md, 250) dst, dtype, 'local' from x;
-
-insert into distance_profile (park, distance, dtype, atype)
-select park, distance, dtype, 'total' from distance_profile;
+select park, generate_series(250, md, 250) dst, dtype from x;
 
 with
 	local_data as (
@@ -58,10 +58,9 @@ with
 		group by a.park, a.distance, a.dtype
 	)
 update distance_profile dp
-set people = local_data.pop
+set people_local = local_data.pop
 from local_data
-where  dp.park = local_data.park
-	and atype = 'local'
+where dp.park = local_data.park
 	and dp.dtype = local_data.dtype
 	and dp.distance = local_data.distance;
 
@@ -73,14 +72,12 @@ with
 			distance_profile a, distances b
 		where
 			a.park = b.park
-			and a.atype = 'local'
 			and b.distance <= a.distance
 		group by a.park, a.distance, a.dtype
 	)
 update distance_profile dp
-set people = td.pop
+set people_total = td.pop
 from total_data td
 where dp.park = td.park
-	and atype = 'total'
 	and dp.distance = td.distance
 	and dp.dtype = td.dtype;
