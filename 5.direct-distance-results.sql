@@ -7,8 +7,8 @@ create view distance_profile_results as
 drop view if exists average_distance;
 create view average_distance as
 	with
-		totals as (select sum(population) totalpop from houses),
+		totals as (select sum(population) totalpop from houses)
 
-	select park, sum(distance * people) / totalpop
+	select park, sum(distance * population) / max(totalpop)
 	from distances d, totals t
 	group by park;
