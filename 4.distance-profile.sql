@@ -1,5 +1,4 @@
-﻿drop table if exists distances;
-CREATE TABLE distances
+﻿CREATE TABLE if not exists distances
 (
    park integer NOT NULL, 
    house integer NOT NULL, 
@@ -9,7 +8,8 @@ CREATE TABLE distances
    FOREIGN KEY (house) REFERENCES houses (id) ON UPDATE NO ACTION ON DELETE cascade, 
    FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade
 );
-
+delete from distances;
+	
 insert into distances
 select
 	parks.id, houses.id, 
@@ -19,8 +19,7 @@ select
 from parks, houses;
 
 
-drop table if exists distance_profile;
-create table distance_profile
+create table if not exists distance_profile
 (
    park integer NOT NULL, 
    distance double precision not null, 
@@ -29,12 +28,13 @@ create table distance_profile
    PRIMARY KEY (park, distance), 
    FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade
 );
+delete from distance_profile;
 
 insert into distance_profile
 	(park, distance)
 with
 	x as (select park, max(distance::int) md from distances group by park)
-select x.park, generate_series(100, x.md, 100) dst from x;
+select x.park, generate_series(250, x.md, 250) dst from x;
 
 with
 	local_data as (
@@ -45,7 +45,7 @@ with
 		where
 			a.park = b.park
 			and b.distance <= a.distance
-			and b.distance >= a.distance - 100
+			and b.distance >= a.distance - 250
 		group by a.park, a.distance
 	)
 update distance_profile dp
