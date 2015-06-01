@@ -14,15 +14,15 @@ delete from distance_profile;
 insert into distance_profile
 	(park, distance, dtype)
 with
-	x as (select park, max(distance::int) md, 'direct' from distances group by park, dtype)
-select park, generate_series(250, md, 250) dst, dtype from x;
+	x as (select park, max(direct_distance::int) md from distances group by park)
+select park, generate_series(250, md, 250) dst, 'direct' from x;
 
 with
 	local_data as (
 		select
 			a.park, a.distance, sum(b.population) pop
 		from
-			distance_profile a, distances b
+			distance_profile a, (select park, house, direct_distance distance, population from distances) b
 		where
 			a.park = b.park
 			and b.distance <= a.distance
@@ -41,7 +41,7 @@ with
 		select
 			a.park, a.distance, sum(b.population) pop
 		from
-			distance_profile a, distances b
+			distance_profile a, (select park, house, direct_distance distance, population from distances) b
 		where
 			a.park = b.park
 			and b.distance <= a.distance
