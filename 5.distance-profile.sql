@@ -9,7 +9,7 @@ create table if not exists distance_profile
    PRIMARY KEY (park, distance, dtype), 
    FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade
 );
-delete from distance_profile;
+delete from distance_profile where dtype='direct';
 
 insert into distance_profile
 	(park, distance, dtype)
