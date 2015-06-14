@@ -1,5 +1,7 @@
 # requires packages: psycopg2, requests
 
+import sys
+
 from psycopg2 import connect
 from psycopg2.extras import RealDictCursor
 from requests import get
@@ -16,17 +18,33 @@ write_cursor = connection2.cursor()
 
 base_url = "http://router.project-osrm.org/viaroute"
 
-read_cursor.execute('select * from rows_for_car_routing')
+# where osm_id in (290224818, 25642999, 25768832)
+
+if len(sys.argv) == 1:
+	print 'specify parks osm ids (numbers, space-separated)'
+	sys.exit(1)
+
+read_cursor.execute('select * from rows_for_routing where car_distance is null and osm_id in %s', (tuple(int(i) for i in sys.argv[1:]),))
 for row in read_cursor:
+	sleep(.5)
 	args = {'loc': [row['house_center'], row['park_center']]}
 	url = urlunsplit(('', '', base_url, urlencode(args, True), None))
 	resp = get(url)
-	data = loads(resp.content)
-	dist = data['route_summary']['total_distance']
+	try:	
+		data = loads(resp.content)
+	except ValueError:
+		print 'no route: ', row
+		print 'response: ', resp.content
+		continue
+	
+	try:
+		dist = data['route_summary']['total_distance']
+	except KeyError:
+		print 'no route: ', row
+		print 'response: ', data.content
+		continue
 
 	write_cursor.execute('update distances set car_distance=%s where park=%s and house=%s;',
 		(dist, row['park'], row['house']))
 
-	print row, 'distance: ', dist
 	connection2.commit()
-	sleep(1)
