@@ -26,7 +26,7 @@ if len(sys.argv) == 1:
 
 read_cursor.execute('select * from rows_for_routing where car_distance is null and osm_id in %s', (tuple(int(i) for i in sys.argv[1:]),))
 for row in read_cursor:
-	sleep(.5)
+	sleep(.2)
 	args = {'loc': [row['house_center'], row['park_center']]}
 	url = urlunsplit(('', '', base_url, urlencode(args, True), None))
 	resp = get(url)

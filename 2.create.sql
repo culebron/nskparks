@@ -11,5 +11,5 @@ delete from parks;
 insert into parks ( osm_id, name, contour_913, contour )
 	select osm_id, name, way, st_transform(way, 4326)
 		from osm_polygon
-		where name is not null;
+		where name is not null and leisure='park';
 

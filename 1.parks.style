@@ -76,3 +76,4 @@
 # OsmType  Tag          DataType     Flags
 way   leisure       text         polygon
 way   name         text         linear
+way   landuse      text			polygon
