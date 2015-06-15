@@ -4,7 +4,7 @@ with
 	park_data as (select id, osm_id, st_centroid(contour) park_center, name from parks),
 	house_data as (select id, centroid house_center, query addr from houses)
 select
-	park, osm_id, name, house, addr,
+	park, osm_id, name, house, addr, fake,
 	st_y(park_center) || ',' || st_x(park_center) park_center,
 	st_y(house_center) || ',' || st_x(house_center) house_center,
 	st_x(park_center) || ',' || st_y(park_center) park_center_lonlat,

@@ -54,11 +54,18 @@ for row in read_cursor:
 		continue
 	
 	try:
-		travel_time = data['result']['items'][0]['total_duration']
+		best_route = data['result']['items'][0]
 	except KeyError:
 		print 'no route: ', row
 		print 'response: ', data
 		continue
+
+	travel_time = sum(
+		move['distance'] / 4. * 3.6
+			if move['type'] == 'walkway'
+			else move['total_duration'] # не movement_duration, это только поездки без ожидания
+		for move in best_route['movements']
+	)
 
 	print row['name'], row['addr'].strip(), round(travel_time / 60.), 'минут'
 
