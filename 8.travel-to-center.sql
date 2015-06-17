@@ -3,10 +3,12 @@ SELECT
 	h.id,
 	substr(h.query::text, 14) AS addr,
 	h.centroid_913,
-	d.transit_distance / 60::double precision AS minutes,
-	d.transit_distance / 3600::double precision AS hours
+	transit_distance / 60 AS minutes ,
+	transit_distance / 3600 AS hours,
+	osm_id
 FROM distances d, houses h, parks p
 WHERE
+	transit_distance > 0 and
 	d.house = h.id AND
 	d.park = p.id AND
 	p.osm_id = 25642995

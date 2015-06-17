@@ -58,6 +58,9 @@ for row in read_cursor:
 	except KeyError:
 		print 'no route: ', row
 		print 'response: ', data
+		write_cursor.execute('update distances set transit_distance=%s where park=%s and house=%s;',
+		(-1, row['park'], row['house']))	
+		connection2.commit()
 		continue
 
 	travel_time = sum(
