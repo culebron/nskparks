@@ -41,7 +41,7 @@ for row in read_cursor:
 		dist = data['route_summary']['total_distance']
 	except KeyError:
 		print 'no route: ', row
-		print 'response: ', data.content
+		print 'response: ', data
 		continue
 
 	write_cursor.execute('update distances set car_distance=%s where park=%s and house=%s;',

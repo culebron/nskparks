@@ -9,9 +9,11 @@ select
 from centroids, buffered
 where not st_within(ctr, buff);
 
+/* generate 250*.57m grid in residential and allotments areas, not near real houses */
 insert into houses (centroid_913, centroid, fake)
 with gen as (SELECT
 		way,
+		/* grid from min to max x and y */
 		generate_series(floor(st_xmin(way))::int, ceiling(st_xmax(way))::int, 250) as x,
 		generate_series(floor(st_ymin(way))::int, ceiling(st_ymax(way))::int, 250) as y 
 		from transit_polygon
@@ -23,9 +25,10 @@ select pt, st_transform(pt, 4326) pt_4326, true
 from pts, buffered
 where st_intersects(way,pt) and not st_within(pt, buffered.buff);
 
+/* points inside novosibirsk area, every 500 m */
 insert into houses (centroid_913, centroid, fake)
 with
-	buffered as (select st_union(st_buffer(centroid_913, 500)) buff from houses),
+	buffered as (select st_union(st_buffer(centroid_913, 250)) buff from houses),
 	river as (select st_union(way) banks from transit_polygon where waterway is not null or "natural"='water'),
 	gen as (
 		select
@@ -39,7 +42,7 @@ select pt, st_transform(pt, 4326) pt_4326, true
 from pts, buffered, river
 where st_intersects(way, pt) and not st_within(pt, buffered.buff) and not st_within(pt, banks);
 
-
+/* points on major roads */
 insert into houses (centroid_913, centroid, fake)
 with
 	buffered as (select st_union(st_buffer(centroid_913, 250)) buff from houses),

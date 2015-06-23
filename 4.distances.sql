@@ -1,10 +1,11 @@
 ﻿CREATE TABLE if not exists distances
 (
-   park integer NOT NULL, 
-   house integer NOT NULL, 
-   direct_distance double precision, 
+   park integer NOT NULL,
+   house integer NOT NULL,
+   direct_distance double precision,
    car_distance double precision,
    transit_distance double precision,
+   transit_json text
    population integer,
    PRIMARY KEY (park, house), 
    FOREIGN KEY (house) REFERENCES houses (id) ON UPDATE NO ACTION ON DELETE cascade, 
@@ -19,5 +20,3 @@ select
 	* cos(radians(st_y(st_setsrid(houses.centroid, 4326)))),
 	population
 from parks, houses;
-
-

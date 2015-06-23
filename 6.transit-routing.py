@@ -35,7 +35,7 @@ url_params = {
 }
 
 read_cursor.execute('select * from rows_for_routing '
-	'where transit_distance is null '
+	'where transit_distance is null and transit_json is null '
 	'and osm_id in %s', (tuple(int(i) for i in ids),))
 for row in read_cursor:
 	sleep(.3)
@@ -58,8 +58,8 @@ for row in read_cursor:
 	except KeyError:
 		print 'no route: ', row
 		print 'response: ', data
-		write_cursor.execute('update distances set transit_distance=%s where park=%s and house=%s;',
-		(-1, row['park'], row['house']))	
+		write_cursor.execute('update distances set transit_json=%s where park=%s and house=%s;',
+		(resp.content, row['park'], row['house']))	
 		connection2.commit()
 		continue
 
@@ -73,7 +73,7 @@ for row in read_cursor:
 	print row['name'], row['addr'].strip(), round(travel_time / 60.), 'минут'
 
 	# надо переписать, это записывается в раздел "общ. транспорт"
-	write_cursor.execute('update distances set transit_distance=%s where park=%s and house=%s;',
-		(travel_time, row['park'], row['house']))
+	write_cursor.execute('update distances set transit_distance=%s, transit_json=%s where park=%s and house=%s;',
+		(travel_time, resp.content, row['park'], row['house']))
 
 	connection2.commit()
