@@ -11,6 +11,8 @@
    FOREIGN KEY (house) REFERENCES houses (id) ON UPDATE NO ACTION ON DELETE cascade, 
    FOREIGN KEY (park) REFERENCES parks (id) ON UPDATE NO ACTION ON DELETE cascade
 );
+create index idx_house on distances (house);
+create index idx_park on distances (park);
 delete from distances;
 
 insert into distances (park, house, direct_distance, population)

@@ -3,7 +3,9 @@ create table if not exists houses (
 	query char(100),
 	centroid geometry,
 	centroid_913 geometry,
-	population integer
+	population double precision,
+	virtual_population double precision
 );
 
+create index houses_id_ind on houses (id);
 delete from houses;

@@ -16,19 +16,17 @@ read_cursor = connection.cursor()
 connection2 = connect(database='nskparks')
 write_cursor = connection2.cursor()
 
-base_url = "http://router.project-osrm.org/viaroute"
-
-# where osm_id in (290224818, 25642999, 25768832)
-
 if len(sys.argv) == 1:
 	print 'specify parks osm ids (numbers, space-separated)'
 	sys.exit(1)
 
-read_cursor.execute('select * from rows_for_routing where car_distance is null and osm_id in %s', (tuple(int(i) for i in sys.argv[1:]),))
+read_cursor.execute('select * from rows_for_routing where car_distance is null and osm_id in %s', 
+	(tuple(int(i) for i in sys.argv[1:]),))
+
 for row in read_cursor:
 	sleep(.2)
 	args = {'loc': [row['house_center'], row['park_center']]}
-	url = urlunsplit(('', '', base_url, urlencode(args, True), None))
+	url = urlunsplit(('', '', "http://router.project-osrm.org/viaroute", urlencode(args, True), None))
 	resp = get(url)
 	try:	
 		data = loads(resp.content)

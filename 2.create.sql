@@ -6,6 +6,7 @@ CREATE TABLE if not exists parks (
     contour_913 geometry
 );
 
+create index parks_id_ind on parks (id);
 delete from parks;
 
 insert into parks ( osm_id, name, contour_913, contour )
